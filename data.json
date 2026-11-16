@@ -1,0 +1,692 @@
+{
+ "generatedAt": "2026-11-15T22:47:10Z",
+ "companies": [
+  {
+   "id": "posco-intl",
+   "name": "포스코인터내셔널",
+   "order": 1,
+   "segments": [
+    "전사",
+    "철강",
+    "모빌리티",
+    "에너지",
+    "소재·희토류",
+    "식량·팜"
+   ],
+   "theme": {
+    "hdr": "#0A7FC2",
+    "ground": "#EDF4F9"
+   }
+  },
+  {
+   "id": "knia",
+   "name": "손해보험협회",
+   "order": 2,
+   "segments": [
+    "전사",
+    "손해보험 산업",
+    "제도·감독",
+    "소비자보호",
+    "보험사기·안전",
+    "디지털·데이터"
+   ],
+   "theme": {
+    "hdr": "#1F3A6B",
+    "ground": "#EEF1F6"
+   }
+  },
+  {
+   "id": "kb-bank",
+   "name": "KB국민은행",
+   "order": 3,
+   "segments": [
+    "전사",
+    "기업금융",
+    "가계·리테일",
+    "글로벌",
+    "디지털·AI",
+    "건전성·규제"
+   ],
+   "theme": {
+    "hdr": "#FFBC00",
+    "ground": "#FBF7EA"
+   }
+  },
+  {
+   "id": "shinhan-bank",
+   "name": "신한은행",
+   "order": 4,
+   "segments": [
+    "전사",
+    "기업금융",
+    "가계·리테일",
+    "글로벌",
+    "디지털·AI",
+    "건전성·규제"
+   ],
+   "theme": {
+    "hdr": "#0046FF",
+    "ground": "#EEF2FD"
+   }
+  }
+ ],
+ "meta": {
+  "posco-intl": {
+   "lastUpdated": "2026-11-15T22:47:10Z",
+   "schedule": "매일 07:45·17:45 자동 수집",
+   "headline": "3분기 영업이익 4,007억 원(전년 대비 +24%)으로 1~3분기 누적 1조 1,873억 원을 기록해 지난해 연간 실적을 이미 넘어섰습니다. 이번 주에는 광양 LNG 2터미널 종합준공(11/10)과 희토류 영구자석 1조 1,600억 원 규모 공급계약 확보 소식이 나왔습니다.",
+   "headnote": "모빌리티사업실 관점의 핵심 화두: 구동모터코아 2026년 287만 대 목표, 그리고 희토류–영구자석–구동모터코아로 이어지는 수직계열화입니다.",
+   "keyNumbers": [
+    {
+     "label": "3분기 매출 (전년 대비 +9.6%)",
+     "value": "9조 268억",
+     "source": "SBS Biz 11/2",
+     "url": "https://biz.sbs.co.kr/amp/article/20000343567"
+    },
+    {
+     "label": "3분기 영업이익 (+24.0%)",
+     "value": "4,007억",
+     "source": "SBS Biz 11/2",
+     "url": "https://biz.sbs.co.kr/amp/article/20000343567"
+    },
+    {
+     "label": "1~3분기 누적 영업이익 (2025년 연간 1조 1,653억 초과)",
+     "value": "1조 1,873억",
+     "source": "토요경제 11/2",
+     "url": "https://sateconomy.co.kr/news/view/1065597653404504"
+    },
+    {
+     "label": "3분기 에너지 영업이익 (전체의 약 60%)",
+     "value": "2,391억",
+     "source": "비즈니스워치 11/5",
+     "url": "https://news.bizwatch.co.kr/article/industry/2026/11/04/0035"
+    },
+    {
+     "label": "3분기 철강 매출 (+5.8%)",
+     "value": "3조 9,934억",
+     "source": "비즈니스워치 11/5",
+     "url": "https://news.bizwatch.co.kr/article/industry/2026/11/04/0035"
+    },
+    {
+     "label": "구동모터코아 2026년 판매 목표 (2025년 216만 대)",
+     "value": "287만 대",
+     "source": "철강금속신문 1/30",
+     "url": "https://www.snmnews.com/news/articleView.html?idxno=564670"
+    },
+    {
+     "label": "구동모터코아 2030년 생산능력 목표",
+     "value": "750만 대",
+     "source": "딜사이트 4/30",
+     "url": "https://dealsite.co.kr/articles/161054"
+    },
+    {
+     "label": "광양 LNG 저장능력 (93만→133만㎘)",
+     "value": "133만㎘",
+     "source": "파이낸셜뉴스 11/10",
+     "url": "https://www.fnnews.com/news/202611101815482875"
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "_id": "d-20261102-q3-prelim",
+   "company": "posco-intl",
+   "type": "disclosure",
+   "segment": "전사",
+   "date": "2026-11-02",
+   "source": "SBS Biz",
+   "url": "https://biz.sbs.co.kr/amp/article/20000343567",
+   "title": "3분기 연결 잠정실적: 매출 9조 268억·영업이익 4,007억",
+   "summary": "매출 9조 268억 원(+9.6%), 영업이익 4,007억 원(+24.0%), 순이익 4,018억 원(+91.6%). 전년 동기 대비, 회사 공시 기준.",
+   "important": true,
+   "addedAt": "2026-11-02T03:00:00Z"
+  },
+  {
+   "_id": "n-20261105-trading3",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "전사",
+   "date": "2026-11-05",
+   "source": "비즈니스워치",
+   "url": "https://news.bizwatch.co.kr/article/industry/2026/11/04/0035",
+   "title": "실적 뛴 종합상사 3사, ‘돈 번 곳’ 다 달랐다",
+   "summary": "에너지 영업이익 2,391억 원으로 전체의 약 60%. 세넥스 551억(+106.4%), 미얀마 가스전 980억, 발전 852억. 팜 837억(+454%). 철강 매출 3조 9,934억(+5.8%)·영업이익 513억(외화 환손실 영향).",
+   "important": true,
+   "addedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+   "_id": "n-20261102-cumulative",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "전사",
+   "date": "2026-11-02",
+   "source": "토요경제",
+   "url": "https://sateconomy.co.kr/news/view/1065597653404504",
+   "title": "1~3분기 누적 영업이익 1조 1,873억…지난해 연간 실적 이미 넘어",
+   "summary": "누적 매출 27조 604억(+10.4%), 영업이익 1조 1,873억(+26.8%). 2025년 연간 영업이익 1조 1,653억 원을 220억 원 웃돌았고, 3분기 영업이익률은 약 4.4%.",
+   "addedAt": "2026-11-02T07:00:00Z"
+  },
+  {
+   "_id": "n-20261103-asiae-dividend",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "에너지",
+   "date": "2026-11-03",
+   "source": "아시아경제",
+   "url": "https://view.asiae.co.kr/article/2026110218214252748",
+   "title": "원자재 뛰자 웃는 포스코인터…배당 기대감도↑",
+   "summary": "9월 합의한 약 8,000억 원 규모 미국 셰일가스 자산 인수가 이달 말 마무리될 예정. 메리츠증권은 2028년부터 연 약 1,000억 원 영업이익 기여를 추정했습니다. 동남아 가스 자산 인수는 내년 상반기 추진 가능성.",
+   "addedAt": "2026-11-03T00:00:00Z"
+  },
+  {
+   "_id": "n-20261110-gwangyang-lng2",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "에너지",
+   "date": "2026-11-10",
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611101815482875",
+   "title": "광양 제2 LNG터미널 종합준공…저장능력 133만㎘로 확대",
+   "summary": "총 9,492억 원 투입, 20만㎘급 탱크 2기 추가(6기→8기). 27만㎥급 운반선 부두와 2만㎥급 벙커링 부두 확보. 선박 간(STS) 벙커링은 2027년 2분기 시작 계획.",
+   "important": true,
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "n-20261110-sidae-tank",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "에너지",
+   "date": "2026-11-10",
+   "source": "sidae.com",
+   "url": "https://www.sidae.com/article/2026110611424592695",
+   "title": "광양 LNG 2터미널, 그룹 고망간강 탱크 적용…셰니에르 첫 카고 이달 도착",
+   "summary": "7·8호 탱크에 영하 196도에서도 강도를 유지하는 고망간강을 적용. 2022년 셰니에르와 맺은 연 40만 톤·20년 장기계약의 첫 카고가 이달 도착 예정. 9~12호 탱크 부지는 확보.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "n-20261113-rare-earth",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "소재·희토류",
+   "date": "2026-11-13",
+   "source": "뉴스핌",
+   "url": "https://www.newspim.com/news/view/20261113000535",
+   "title": "희토류 영구자석 1조 1,600억 원 공급계약 확보…전기차 넘어 방산까지",
+   "summary": "북미·유럽 완성차 업체와 영구자석 공급계약 확보. 미국 리엘리먼트와 2억 달러 공동투자로 정제시설 구축(1단계 연 3,000톤, 최대 6,000톤), 2027년 4분기 시범생산·2028년 양산 목표. 말레이시아·라오스에서 연 4,500톤 확보 추진.",
+   "important": true,
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "n-20261113-ibtomato-lng",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "에너지",
+   "date": "2026-11-13",
+   "source": "IB토마토",
+   "url": "https://www.ibtomato.com/ExternalView.aspx?type=1&no=20102",
+   "title": "포스코인터, LNG 투자에 이익도 뛴다…그룹 ‘2인자’ 입지 강화",
+   "summary": "싱가포르 법인이 15년간 연 37만 톤 LNG를 포스코에 공급 예정. 그룹 내 수익 순위는 철강에 이어 2위. 내년 투자 검토 규모는 약 2조 원으로, 절반가량을 에너지에 투입하는 방안 검토.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "n-20261113-us-policy",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "소재·희토류",
+   "date": "2026-11-13",
+   "source": "토요경제",
+   "url": "https://sateconomy.co.kr/news/view/1065616311637403",
+   "title": "미국 대관 활동 확대…희토류 협력 MOU에 ‘대미 지원’ 역할 명시",
+   "summary": "2026년 1~3분기 미 의회 로비 공개시스템 신고액 21만 달러(전년 동기 약 10배). 1월 제이에스링크와 미국 사업 협력 MOU(원재료 공급·판매 지원·양산 지원·대관 지원), 5월 리엘리먼트와 정제 합작 협약.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "d-20260914-epusa",
+   "company": "posco-intl",
+   "type": "disclosure",
+   "segment": "에너지",
+   "date": "2026-09-14",
+   "source": "SBS Biz",
+   "url": "https://biz.sbs.co.kr/amp/article/20000334544",
+   "title": "타법인 주식 취득: 미국 자회사 POSCO International E&P USA 5,329억 원",
+   "summary": "취득 후 지분율 100%. 취득 목적은 ‘미국 셰일가스 자산 인수’.",
+   "addedAt": "2026-09-14T09:00:00Z"
+  },
+  {
+   "_id": "n-20260915-shale",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "에너지",
+   "date": "2026-09-15",
+   "source": "비즈니스워치",
+   "url": "https://news.bizwatch.co.kr/article/industry/2026/09/15/0027",
+   "title": "미국 셰일가스에 약 8,000억 원 투입…에너지 사업 더 견고해지나",
+   "summary": "출자 약 5,329억 원과 대여 약 2,661억 원을 합쳐 약 7,990억 원. 채무보증 한도는 최대 약 1조 523억 원. 거래 상대방과 광구는 미공개(업계는 윌리스턴 분지 가능성 제기).",
+   "addedAt": "2026-09-15T07:00:00Z"
+  },
+  {
+   "_id": "d-20260908-holdings",
+   "company": "posco-intl",
+   "type": "disclosure",
+   "segment": "전사",
+   "date": "2026-09-08",
+   "source": "딜사이트 공시모음",
+   "url": "https://dealsite.co.kr/articles/168630",
+   "title": "최대주주 포스코홀딩스 지분 70.71%→50.00% (시간외 대량매매)",
+   "summary": "보통주 3,643만 4,963주 처분. 블로터 보도 기준 주당 5만 5,400원, 약 2조 185억 원. 회사 측은 주요 상장 자회사 지분율을 50% 수준으로 조정하는 기업가치 제고 계획의 일환이라고 설명.",
+   "addedAt": "2026-09-08T03:00:00Z"
+  },
+  {
+   "_id": "ir-20260430-q1",
+   "company": "posco-intl",
+   "type": "ir",
+   "segment": "전사",
+   "date": "2026-04-30",
+   "source": "포스코인터내셔널 IR",
+   "url": "https://www.poscointl.com/upload/file/202604/202604iXMYMbOF6.pdf",
+   "title": "2026년 1분기 경영실적 IR 자료",
+   "summary": "매출 8조 4,104억 원, 영업이익 3,575억 원. 구동모터코아(포스코모빌리티솔루션 모터코아사업)는 소재 부문에 포함, 1분기 매출 744억·영업이익 28.3억 원. 감사 전 수치.",
+   "addedAt": "2026-04-30T07:00:00Z"
+  },
+  {
+   "_id": "n-20260430-motorcore",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "모빌리티",
+   "date": "2026-04-30",
+   "source": "딜사이트",
+   "url": "https://dealsite.co.kr/articles/161054",
+   "title": "구동모터코어 결실…지정학 리스크 우회 ‘적중’",
+   "summary": "포스코모빌리티솔루션 2025년 모터코어 사업 영업이익 190억 원(전년 20억 적자에서 흑자). 국내 점유율 70% 이상. 2030년 생산능력 750만 대(한국 250·멕시코 350·폴란드 120·인도 30만 대) 목표.",
+   "important": true,
+   "addedAt": "2026-04-30T03:00:00Z"
+  },
+  {
+   "_id": "n-20260421-triangle",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "모빌리티",
+   "date": "2026-04-21",
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202604201547167331",
+   "title": "모빌리티 소재 사업 ‘삼각축’ 구축…2030년 매출 3조 정조준",
+   "summary": "구동모터코어를 중심으로 희토류·영구자석을 잇는 수직계열화. 모터코아 판매량 전망: 2025년 216만→2026년 287만→2027년 600만→2030년 750만 대.",
+   "addedAt": "2026-04-21T06:00:00Z"
+  },
+  {
+   "_id": "n-20260130-turnaround",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "모빌리티",
+   "date": "2026-01-30",
+   "source": "철강금속신문",
+   "url": "https://www.snmnews.com/news/articleView.html?idxno=564670",
+   "title": "포스코모빌리티솔루션 구동모터코아 사업 ‘적자 털고 흑자 전환’",
+   "summary": "2025년 매출 3,400억 원, 판매 216만 대(+14.9%). 하이브리드 중심 판매 구성과 원가 절감이 요인. 2026년 목표 287만 대, 해외 양산 불량률 3% 이하·신규 5% 이하. 폴란드 공장 2026년 1월 양산 개시.",
+   "addedAt": "2026-01-30T09:00:00Z"
+  },
+  {
+   "_id": "n-20260612-elecsteel",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "모빌리티",
+   "date": "2026-06-12",
+   "source": "경북매일",
+   "url": "https://www.kbmaeil.com/article/20260611500543",
+   "title": "포스코·현대차, 규소 6.5%급 차세대 전기강판 공동 개발",
+   "summary": "산업부 과제로 포스코 주관, 현대차 등 10개 기관 참여. 철손을 줄여 모터 효율을 높이는 광폭 고규소 전기강판과 코어·구동모터 제조기술 개발. (포스코 기사로, 그룹 전기강판–모터코아 밸류체인 맥락)",
+   "addedAt": "2026-06-12T00:00:00Z"
+  },
+  {
+   "_id": "n-20261029-hyundai-q3",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "모빌리티",
+   "date": "2026-10-29",
+   "source": "The EV Report",
+   "url": "https://theevreport.com/hyundai-q3-2026-results-hybrid-ev-sales",
+   "title": "현대차 3분기: 하이브리드 +3.8%, 전기차 -9.2%",
+   "summary": "하이브리드 16만 7,414대(+3.8%), 전기차 6만 9,117대(-9.2%). 전동화 비중은 26.7%로 2.4%p 상승. 구동모터코아 수요 구성(HEV/BEV)을 읽는 지표.",
+   "addedAt": "2026-10-29T00:00:00Z"
+  },
+  {
+   "_id": "n-20260601-eu-sg",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "철강",
+   "date": "2026-06-01",
+   "source": "CEO스코어데일리",
+   "url": "https://ceoscoredaily.com/page/view/2026060110073394261",
+   "title": "EU, 철강 관세 50%로 상향…7월 1일 새 세이프가드",
+   "summary": "할당량 초과 관세 25%→50%, 무관세 쿼터는 기존의 절반 수준. EU는 1월부터 CBAM을 시행 중이며 올해 물량 인증서 구매는 내년. EU는 한국의 2위 철강 수출국.",
+   "important": true,
+   "addedAt": "2026-06-01T09:00:00Z"
+  },
+  {
+   "_id": "n-20260223-us-tariff",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "철강",
+   "date": "2026-02-23",
+   "source": "뉴시스",
+   "url": "https://mobile.newsis.com/view/NISX20260223_0003522404",
+   "title": "통상 급변에 철강업계 ‘비상’…품목관세 조정 가능성 ‘촉각’",
+   "summary": "미국 연방대법원이 상호관세를 무효로 판결했지만, 철강·알루미늄·구리의 50% 품목관세는 별개로 유지. 232조를 활용한 조정 또는 인하 가능성이 함께 거론.",
+   "addedAt": "2026-02-23T06:00:00Z"
+  },
+  {
+   "_id": "n-20260529-ukraine",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "식량·팜",
+   "date": "2026-05-29",
+   "source": "더구루(다음)",
+   "url": "https://v.daum.net/v/20260529105658812",
+   "title": "우크라이나 재건 시장…포스코인터, 항만·물류로 협력 확대",
+   "summary": "5월 19일 미콜라이우 주지사가 송도 사옥 방문. 미콜라이우항 곡물터미널(2019년 준공)은 부분 가동 중이며 종전 시 조기 정상화를 준비. 전쟁 직전까지 약 250만 톤 수출.",
+   "addedAt": "2026-05-29T02:00:00Z"
+  },
+  {
+   "_id": "n-20260507-palm",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "식량·팜",
+   "date": "2026-05-07",
+   "source": "아시아경제",
+   "url": "https://view.asiae.co.kr/article/2026050615313566894",
+   "title": "인니 4억 평 팜유농장·우크라 곡물…‘글로벌 식량 큰손’ 목표",
+   "summary": "인도네시아 팜 농장 약 4억 평, 정제공장 연 50만 톤. 지난해 11월 PAR(구 삼푸르나아그로) 1조 3,000억 원에 인수. 조팜유 판매량 19만→55만 톤 확대 계획.",
+   "addedAt": "2026-05-07T01:00:00Z"
+  },
+  {
+   "_id": "n-20251205-org",
+   "company": "posco-intl",
+   "type": "news",
+   "segment": "전사",
+   "date": "2025-12-05",
+   "source": "헤럴드경제",
+   "url": "https://www.heraldk.com/article/2025120501131251723",
+   "title": "2026년 조직개편: 에너지부문 신설, DX전략실 통합",
+   "summary": "LNG 밸류체인 협업을 위해 에너지부문 신설, 안전기획실 신설, DX추진반과 디지털혁신실을 DX전략실로 통합. 조준수 가스사업본부장이 에너지부문장 겸임.",
+   "addedAt": "2025-12-05T03:00:00Z"
+  },
+  {
+   "_id": "v-yt-latest",
+   "company": "posco-intl",
+   "type": "video",
+   "segment": "전사",
+   "date": "2026-11-14",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/results?search_query=%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90&sp=CAI%253D",
+   "title": "유튜브: ‘포스코인터내셔널’ 최신 업로드순",
+   "summary": "회사 공식 영상과 뉴스 영상을 업로드 순서로 봅니다. 자동 수집에서 빠진 새 영상은 여기서 확인하세요.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "v-yt-motorcore",
+   "company": "posco-intl",
+   "type": "video",
+   "segment": "모빌리티",
+   "date": "2026-11-14",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/results?search_query=%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90+%EA%B5%AC%EB%8F%99%EB%AA%A8%ED%84%B0%EC%BD%94%EC%95%84",
+   "title": "유튜브: ‘포스코인터내셔널 구동모터코아’ 검색",
+   "summary": "모빌리티사업실 면접 전 제품 구조(전기강판 적층·영구자석)와 생산 공정 영상을 확인하세요.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "v-yt-lng",
+   "company": "posco-intl",
+   "type": "video",
+   "segment": "에너지",
+   "date": "2026-11-14",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/results?search_query=%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90+%EA%B4%91%EC%96%91+LNG%ED%84%B0%EB%AF%B8%EB%84%90",
+   "title": "유튜브: ‘포스코인터내셔널 광양 LNG터미널’ 검색",
+   "summary": "11월 10일 제2터미널 준공 관련 영상 확인용.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "v-nr-motorcore-3min",
+   "company": "posco-intl",
+   "type": "video",
+   "segment": "모빌리티",
+   "source": "포스코 뉴스룸",
+   "url": "https://newsroom.posco.com/kr/3%EB%B6%84-%EC%88%9C%EC%82%AD-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%9D%98-%EC%8B%AC%EC%9E%A5-%EA%B5%AC%EB%8F%99%EB%AA%A8%ED%84%B0%EC%BD%94%EC%96%B4-%ED%8F%AC/",
+   "title": "3분 순삭 유튜브: 전기차의 심장 구동모터코어",
+   "summary": "포스코 뉴스룸의 구동모터코어 설명 영상 게시물. 게시일은 링크에서 확인하세요.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "v-nr-motorcore-history",
+   "company": "posco-intl",
+   "type": "video",
+   "segment": "모빌리티",
+   "source": "포스코 뉴스룸",
+   "url": "https://newsroom.posco.com/kr/%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%9D%98-%ED%83%84%EC%83%9D%EB%B6%80%ED%84%B0-%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%8B%9C%EB%8C%80-%ED%95%B5%EC%8B%AC-%EB%B6%80%ED%92%88%EA%B9%8C%EC%A7%80-%EA%B5%AC/",
+   "title": "전기차의 탄생부터 모빌리티 시대 핵심 부품까지, 구동모터코어",
+   "summary": "포스코 뉴스룸 콘텐츠. 구동모터코어의 역할과 사업 배경 정리.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  },
+  {
+   "_id": "v-nr-pr-nature",
+   "company": "posco-intl",
+   "type": "video",
+   "segment": "전사",
+   "source": "포스코 뉴스룸",
+   "url": "https://newsroom.posco.com/kr/%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90-%EC%8B%A0%EA%B7%9C-%ED%99%8D%EB%B3%B4%EC%98%81%EC%83%81-with-nature-make-future-%EA%B3%B5%EA%B0%9C/",
+   "title": "포스코인터내셔널 신규 홍보영상 ‘with nature, make future’ 공개",
+   "summary": "회사 홍보영상 게시물. 회사가 스스로 꼽는 사업 메시지를 확인하는 용도.",
+   "addedAt": "2026-11-14T09:20:00Z"
+  }
+ ],
+ "issues": [
+  {
+   "_id": "steel-us-tariff",
+   "company": "posco-intl",
+   "segment": "철강",
+   "order": 1,
+   "status": "지속",
+   "updated": "2026-02-23",
+   "title": "미국 철강 50% 품목관세 유지",
+   "detail": "미 연방대법원의 상호관세 무효 판결과 별개로 철강·알루미늄·구리 50% 품목관세는 유지. 232조를 활용한 조정 또는 인하 가능성이 함께 거론됩니다.",
+   "impact": "대미 철강 트레이딩은 현지 가공·제3국 판로 등 물량 재배치가 필요한 환경입니다.",
+   "angle": "‘관세 환경에서 철강 트레이딩의 역할은?’ 질문에 대비: 판로 다변화와 고객사 원가 부담 분담 협상 관점으로 답하기.",
+   "sources": [
+    {
+     "name": "뉴시스",
+     "url": "https://mobile.newsis.com/view/NISX20260223_0003522404",
+     "date": "2026-02-23"
+    }
+   ]
+  },
+  {
+   "_id": "steel-eu",
+   "company": "posco-intl",
+   "segment": "철강",
+   "order": 2,
+   "status": "7/1 시행",
+   "updated": "2026-06-01",
+   "title": "EU 세이프가드 강화와 CBAM 본격화",
+   "detail": "EU는 할당량 초과 철강 관세를 25%에서 50%로 올리고 무관세 쿼터를 절반 수준으로 줄였습니다(2026년 7월 1일 시행). CBAM은 1월부터 시행 중이며 2026년 물량의 인증서 구매는 2027년에 이뤄집니다.",
+   "impact": "2025년 상반기 회사 유럽 매출 비중은 13%로, 주력은 자동차용 냉연강판입니다(2025년 10월 보도 기준).",
+   "angle": "폴란드 모터코아 공장처럼 ‘현지 생산’으로 통상 리스크를 우회하는 구조를 이해하고 있다는 점을 보여주기.",
+   "sources": [
+    {
+     "name": "CEO스코어데일리",
+     "url": "https://ceoscoredaily.com/page/view/2026060110073394261",
+     "date": "2026-06-01"
+    },
+    {
+     "name": "IB토마토",
+     "url": "https://newstomato.com/ReadNews.aspx?no=1278645",
+     "date": "2025-10-24"
+    }
+   ]
+  },
+  {
+   "_id": "steel-fx",
+   "company": "posco-intl",
+   "segment": "철강",
+   "order": 3,
+   "status": "3분기 실적",
+   "updated": "2026-11-05",
+   "title": "환율 변동과 트레이딩 수익성",
+   "detail": "3분기 철강 매출은 3조 9,934억 원(+5.8%)으로 늘었지만, 외화 환손실 영향으로 영업이익은 673억에서 513억 원으로 조정됐습니다. 소재바이오도 환율 영향을 받았습니다.",
+   "impact": "에너지·팜이 안정 수익을 내는 동안 트레이딩 수익 변동성을 줄이는 것이 과제로 꼽힙니다.",
+   "angle": "환 리스크를 거래 구조로 풀어본 경험(국내 협력사 경유 원화 거래)을 팀 협의의 결과로 설명하기.",
+   "sources": [
+    {
+     "name": "비즈니스워치",
+     "url": "https://news.bizwatch.co.kr/article/industry/2026/11/04/0035",
+     "date": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "_id": "mob-capacity",
+   "company": "posco-intl",
+   "segment": "모빌리티",
+   "order": 4,
+   "status": "확대 중",
+   "updated": "2026-04-30",
+   "title": "구동모터코아 글로벌 생산체제",
+   "detail": "2025년 216만 대 판매·모터코아 사업 흑자 전환(영업이익 190억 원). 2026년 287만 대 목표. 2030년 생산능력 750만 대(한국 250·멕시코 350·폴란드 120·인도 30만 대). 폴란드는 2026년 1월 양산 개시, 멕시코 2공장은 2025년 9월 준공.",
+   "impact": "국내 점유율 70% 이상. 해외 양산 불량률 3% 이하·신규 5% 이하를 품질 목표로 제시.",
+   "angle": "신규 거점 양산 초기에는 품질·납기 관리가 영업의 핵심입니다. 품질 기준 신설과 현대차그룹 현장 대응 경험을 연결하기.",
+   "sources": [
+    {
+     "name": "딜사이트",
+     "url": "https://dealsite.co.kr/articles/161054",
+     "date": "2026-04-30"
+    },
+    {
+     "name": "철강금속신문",
+     "url": "https://www.snmnews.com/news/articleView.html?idxno=564670",
+     "date": "2026-01-30"
+    }
+   ]
+  },
+  {
+   "_id": "mob-hev",
+   "company": "posco-intl",
+   "segment": "모빌리티",
+   "order": 5,
+   "status": "수요 재편",
+   "updated": "2026-10-29",
+   "title": "전기차 수요 조정과 하이브리드 확대",
+   "detail": "현대차 3분기 하이브리드 판매는 +3.8%, 전기차는 -9.2%. 전동화 비중은 26.7%로 상승했습니다.",
+   "impact": "모터코아 사업은 하이브리드 중심 판매 구성으로 흑자 전환했습니다. 구동모터는 하이브리드에도 들어가므로 전동화 비중 자체가 수요 지표입니다.",
+   "angle": "‘전기차 캐즘인데 모빌리티에 지원한 이유는?’에 대비: BEV만이 아니라 HEV까지 포함한 전동화 수요로 설명하기.",
+   "sources": [
+    {
+     "name": "The EV Report",
+     "url": "https://theevreport.com/hyundai-q3-2026-results-hybrid-ev-sales",
+     "date": "2026-10-29"
+    },
+    {
+     "name": "철강금속신문",
+     "url": "https://www.snmnews.com/news/articleView.html?idxno=564670",
+     "date": "2026-01-30"
+    }
+   ]
+  },
+  {
+   "_id": "mat-rare-earth",
+   "company": "posco-intl",
+   "segment": "소재·희토류",
+   "order": 6,
+   "status": "수주 확보",
+   "updated": "2026-11-13",
+   "title": "희토류–영구자석–모터코아 수직계열화",
+   "detail": "북미·유럽 완성차와 영구자석 공급계약 1조 1,600억 원 확보. 미국 리엘리먼트와 2억 달러 정제 합작(2027년 4분기 시범생산, 2028년 양산). 말레이시아·라오스에서 연 4,500톤 확보 추진.",
+   "impact": "증권가는 2030년 희토류·영구자석 합산 약 3조 원 규모를 전망(유안타증권). 전기강판과 모터코아에 자석까지 묶어 공급하는 구조입니다.",
+   "angle": "공급망 다변화·신규 공급처 검증 경험(규격 대조, 거래 구조 설계)을 연결하기.",
+   "sources": [
+    {
+     "name": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261113000535",
+     "date": "2026-11-13"
+    },
+    {
+     "name": "파이낸셜뉴스",
+     "url": "https://www.fnnews.com/news/202604201547167331",
+     "date": "2026-04-21"
+    }
+   ]
+  },
+  {
+   "_id": "energy-lng",
+   "company": "posco-intl",
+   "segment": "에너지",
+   "order": 7,
+   "status": "성장 축",
+   "updated": "2026-11-10",
+   "title": "LNG 밸류체인 확장",
+   "detail": "3분기 에너지 영업이익 2,391억 원(전체의 약 60%), 세넥스 +106.4%. 광양 제2 LNG터미널 준공(저장 133만㎘), 미국 셰일가스 자산 인수(약 7,990억 원) 추진.",
+   "impact": "회사 이익의 중심이 트레이딩에서 에너지로 옮아가고 있습니다. 2026년 조직개편에서 에너지부문도 신설됐습니다.",
+   "angle": "철강·모빌리티 지원자도 ‘회사 전체 포트폴리오 속 내 부문의 역할’을 말할 수 있어야 합니다.",
+   "sources": [
+    {
+     "name": "비즈니스워치",
+     "url": "https://news.bizwatch.co.kr/article/industry/2026/11/04/0035",
+     "date": "2026-11-05"
+    },
+    {
+     "name": "파이낸셜뉴스",
+     "url": "https://www.fnnews.com/news/202611101815482875",
+     "date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "_id": "food-palm",
+   "company": "posco-intl",
+   "segment": "식량·팜",
+   "order": 8,
+   "status": "이익 기여 확대",
+   "updated": "2026-11-05",
+   "title": "인니 팜 편입 효과와 우크라이나 곡물",
+   "detail": "3분기 팜 영업이익 837억 원(+454%). PT.PAR 농장 연결 편입과 생산관리 개선이 요인. 미콜라이우 곡물터미널은 부분 가동 중이며 종전 시 조기 정상화를 준비합니다.",
+   "impact": "에너지와 함께 팜이 안정 수익원으로 자리 잡고 있습니다.",
+   "angle": "지원 직무와 직접 관련은 적지만 회사 이해도 질문에 대비해 숫자 한 줄은 기억하기.",
+   "sources": [
+    {
+     "name": "비즈니스워치",
+     "url": "https://news.bizwatch.co.kr/article/industry/2026/11/04/0035",
+     "date": "2026-11-05"
+    },
+    {
+     "name": "더구루(다음)",
+     "url": "https://v.daum.net/v/20260529105658812",
+     "date": "2026-05-29"
+    }
+   ]
+  },
+  {
+   "_id": "corp-governance",
+   "company": "posco-intl",
+   "segment": "전사",
+   "order": 9,
+   "status": "변화",
+   "updated": "2026-09-08",
+   "title": "최대주주 지분 50% 조정과 조직 개편",
+   "detail": "포스코홀딩스가 시간외 대량매매로 지분을 70.71%에서 50.00%로 조정(기업가치 제고 계획의 일환). 2026년 조직개편으로 에너지부문·안전기획실 신설, DX전략실 통합.",
+   "impact": "유통주식이 늘고, DX·안전 조직이 강화됐습니다.",
+   "angle": "AI 활용 경험을 ‘DX전략실 방향에 맞는 현업 적용’으로 연결하기.",
+   "sources": [
+    {
+     "name": "딜사이트",
+     "url": "https://dealsite.co.kr/articles/168630",
+     "date": "2026-09-08"
+    },
+    {
+     "name": "헤럴드경제",
+     "url": "https://www.heraldk.com/article/2025120501131251723",
+     "date": "2025-12-05"
+    }
+   ]
+  }
+ ]
+}
