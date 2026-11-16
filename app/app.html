@@ -378,8 +378,13 @@ body::before{content:"";position:fixed;inset:-25%;z-index:-1;pointer-events:none
   function renderTop(){
     /* company selector */
     var sel = document.getElementById("co"); sel.textContent="";
+    var groups = [], byG = {};
     state.companies.slice().sort(function(a,b){ return (a.order||99)-(b.order||99); }).forEach(function(c){
-      sel.appendChild(h("option",{value:c.id, selected: c.id===state.company ? "selected" : null, text:str(c.name)}));
+      var g = str(c.group) || "기타"; if (!byG[g]){ byG[g] = []; groups.push(g); } byG[g].push(c);
+    });
+    groups.forEach(function(g){
+      var parent = groups.length > 1 ? sel.appendChild(h("optgroup",{label:g})) : sel;
+      byG[g].forEach(function(c){ parent.appendChild(h("option",{value:c.id, selected: c.id===state.company ? "selected" : null, text:str(c.name)})); });
     });
     sel.disabled = state.companies.length < 2;
     /* live state */
