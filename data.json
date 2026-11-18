@@ -1,22 +1,22 @@
 {
- "generatedAt": "2026-11-17T23:37:49Z",
+ "generatedAt": "2026-11-18T09:38:27Z",
  "companies": [
   {
-   "id": "posco-intl",
-   "name": "포스코인터내셔널",
-   "group": "종합상사",
-   "order": 1,
+   "id": "ibk",
+   "name": "IBK기업은행",
+   "group": "금융권",
+   "order": 14,
    "segments": [
     "전사",
-    "철강",
-    "모빌리티",
-    "에너지",
-    "소재·희토류",
-    "식량·팜"
+    "중소기업금융",
+    "가계·리테일",
+    "글로벌",
+    "디지털·AI",
+    "정책금융·건전성"
    ],
    "theme": {
-    "ground": "#EDF4F9",
-    "hdr": "#0A7FC2"
+    "ground": "#EEF3FA",
+    "hdr": "#0B5BAA"
    }
   },
   {
@@ -38,21 +38,21 @@
    }
   },
   {
-   "id": "shinhan-bank",
-   "name": "신한은행",
-   "group": "금융권",
-   "order": 12,
+   "id": "knia",
+   "name": "손해보험협회",
+   "group": "보험·협회",
+   "order": 21,
    "segments": [
     "전사",
-    "기업금융",
-    "가계·리테일",
-    "글로벌",
-    "디지털·AI",
-    "건전성·규제"
+    "손해보험 산업",
+    "제도·감독",
+    "소비자보호",
+    "보험사기·안전",
+    "디지털·데이터"
    ],
    "theme": {
-    "ground": "#EEF2FD",
-    "hdr": "#0046FF"
+    "ground": "#EEF1F6",
+    "hdr": "#1F3A6B"
    }
   },
   {
@@ -75,21 +75,39 @@
    }
   },
   {
-   "id": "ibk",
-   "name": "IBK기업은행",
-   "group": "금융권",
-   "order": 14,
+   "id": "posco-intl",
+   "name": "포스코인터내셔널",
+   "group": "종합상사",
+   "order": 1,
    "segments": [
     "전사",
-    "중소기업금융",
+    "철강",
+    "모빌리티",
+    "에너지",
+    "소재·희토류",
+    "식량·팜"
+   ],
+   "theme": {
+    "ground": "#EDF4F9",
+    "hdr": "#0A7FC2"
+   }
+  },
+  {
+   "id": "shinhan-bank",
+   "name": "신한은행",
+   "group": "금융권",
+   "order": 12,
+   "segments": [
+    "전사",
+    "기업금융",
     "가계·리테일",
     "글로벌",
     "디지털·AI",
-    "정책금융·건전성"
+    "건전성·규제"
    ],
    "theme": {
-    "ground": "#EEF3FA",
-    "hdr": "#0B5BAA"
+    "ground": "#EEF2FD",
+    "hdr": "#0046FF"
    }
   },
   {
@@ -108,24 +126,6 @@
    "theme": {
     "ground": "#EDF5FB",
     "hdr": "#0A82C8"
-   }
-  },
-  {
-   "id": "knia",
-   "name": "손해보험협회",
-   "group": "보험·협회",
-   "order": 21,
-   "segments": [
-    "전사",
-    "손해보험 산업",
-    "제도·감독",
-    "소비자보호",
-    "보험사기·안전",
-    "디지털·데이터"
-   ],
-   "theme": {
-    "ground": "#EEF1F6",
-    "hdr": "#1F3A6B"
    }
   }
  ],
@@ -183,7 +183,7 @@
      "value": "11.48%"
     }
    ],
-   "lastUpdated": "2026-11-17T22:45:42Z",
+   "lastUpdated": "2026-11-18T08:45:59Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "kb-bank": {
@@ -239,7 +239,7 @@
      "value": "0.41% (전년 0.54% 대비 -0.13%p, 6월 말 0.37% 대비 +0.04%p)"
     }
    ],
-   "lastUpdated": "2026-11-17T22:45:42Z",
+   "lastUpdated": "2026-11-18T08:45:59Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "knia": {
@@ -295,7 +295,7 @@
      "value": "5726억원 (요율 0.15%→0.5% 안, 미확정)"
     }
    ],
-   "lastUpdated": "2026-11-17T22:45:42Z",
+   "lastUpdated": "2026-11-18T08:45:59Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "nh-bank": {
@@ -345,7 +345,7 @@
      "value": "380명"
     }
    ],
-   "lastUpdated": "2026-11-17T22:45:42Z",
+   "lastUpdated": "2026-11-18T08:45:59Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "shinhan-bank": {
@@ -401,11 +401,11 @@
      "value": "0.42%"
     }
    ],
-   "lastUpdated": "2026-11-17T22:45:42Z",
+   "lastUpdated": "2026-11-18T08:45:59Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "posco-intl": {
-   "headline": "3분기 영업이익 4,007억 원(전년 대비 +24%)으로 1~3분기 누적 1조 1,873억 원을 기록해 지난해 연간 실적을 이미 넘어섰습니다. 이계인 대표는 11/16 미국 중간선거 이후에도 알래스카 LNG 투자(SPC 270억 원 집행, 연 100만 톤 구매권)를 이어가겠다고 밝혔습니다.",
+   "headline": "금융당국이 포스코인터내셔널의 말레이시아 등 해외 희토류 사업에 국민성장펀드 약 1조 원 지원을 실무 검토 중입니다(11/18 보도, 연내 승인 불투명). 3분기 영업이익 4,007억 원(+24%)으로 누적 1조 1,873억 원을 기록했습니다.",
    "headnote": "모빌리티사업실 관점의 핵심 화두: 구동모터코아 2026년 287만 대 목표, 그리고 희토류–영구자석–구동모터코아로 이어지는 수직계열화입니다.",
    "keyNumbers": [
     {
@@ -457,7 +457,7 @@
      "value": "133만㎘"
     }
    ],
-   "lastUpdated": "2026-11-17T22:45:42Z",
+   "lastUpdated": "2026-11-18T08:45:59Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "woori-bank": {
@@ -507,11 +507,128 @@
      "value": "34조7000억원 (5년 목표 90조원의 38.5%)"
     }
    ],
-   "lastUpdated": "2026-11-17T22:45:42Z",
+   "lastUpdated": "2026-11-18T08:45:59Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   }
  },
  "items": [
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "ibk",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "중소기업금융",
+   "source": "파이낸셜뉴스",
+   "summary": "11월 17~18일 IBK파이낸스타워에서 'IBK창공 Fly High 데모데이'를 열고 IPO 상담·VC 투자 상담·오픈이노베이션을 진행했습니다. 2017년 12월 출범한 IBK창공은 1,277개(9월 기준) 기업을 지원했으며 투자·융자 3조 7,000억 원, 비금융 지원 약 1만 8,000건을 제공했습니다.",
+   "title": "기업은행, IBK창공 데모데이 개최…엔비디아·SKT 등과 스타트업 협력",
+   "type": "news",
+   "url": "https://www.fnnews.com/news/202611181453592927",
+   "_id": "n-20261118-ibk-changgong-demoday"
+  },
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "ibk",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "정책금융·건전성",
+   "source": "더파워",
+   "summary": "금감원 집계 9월 말 국내은행 원화대출 연체율은 0.59%로 전월(0.69%)보다 낮아졌지만 전년 동월(0.52%)보다 높습니다. 중소기업대출 0.85%(중소법인 0.92%, 개인사업자 0.74%)로 전년 대비 0.10%p 올랐고, 분기말 연체채권 정리 규모는 4조 7,000억 원이었습니다. 은행권 전체 통계입니다.",
+   "title": "9월 국내은행 연체율 0.59%…중소기업 0.85%, 전년보다 상승",
+   "type": "news",
+   "url": "https://www.thepowernews.co.kr/view.php?ud=202611181417132202de3f0aa1be_7",
+   "_id": "n-20261118-ibk-sep-bank-delinquency"
+  },
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "knia",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "보험사기·안전",
+   "source": "한국보험신문",
+   "summary": "금감원은 11월 18일 자동차 보험사기 기획조사 결과를 공개하며 전동킥보드 고의충돌 80여 건, 입원 중 대리운전·택시영업, 음주 의심 차량 표적 사고 등 수법과 대응요령을 안내했습니다. 상시 모니터링을 강화하겠다고 밝혔습니다.",
+   "title": "금감원, 자동차 보험사기 기획조사 공개…킥보드 고의사고 80여 건",
+   "type": "news",
+   "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93904",
+   "_id": "n-20261118-knia-auto-fraud-fss"
+  },
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "knia",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "제도·감독",
+   "source": "소비자가 만드는 신문",
+   "summary": "손해보험협회가 9개 손보사 자료를 취합한 결과 10월 5세대 실손 가입은 9만 4,237건이며 1~4세대 자발 전환은 1만 2,542건(13.3%)입니다. 1·2세대 전환은 7월 7,667건에서 10월 6,746건으로 3개월 연속 감소했으며, 이달 중 1세대·초기 2세대 대상 3년간 50% 할인제가 시행될 예정입니다.",
+   "title": "5세대 실손 10월 가입 9만 4,237건…기존 가입자 전환 13.3%(협회 집계)",
+   "type": "news",
+   "url": "https://consumernews.co.kr/news/articleView.html?idxno=768411",
+   "_id": "n-20261118-knia-gen5-oct-conversion"
+  },
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "nh-bank",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "전사",
+   "source": "아시아경제",
+   "summary": "강태영 행장은 11월 17일 국립창원대 교양과목 '도전과 창조'에서 학생 약 550명에게 '금융의 미래를 창조해 나가다'를 주제로 강연하며 농협은행의 도전·혁신 사례를 소개했습니다. 끊임없는 도전과 자기계발로 '미래의 육각형 인재'로 성장하길 바란다고 말했습니다.",
+   "title": "강태영 농협은행장, 창원대 550명 대상 강연…'육각형 인재' 강조",
+   "type": "news",
+   "url": "https://view.asiae.co.kr/article/2026111814234082655",
+   "_id": "n-20261118-nh-ceo-changwon-lecture"
+  },
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "nh-bank",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "건전성·규제",
+   "source": "아시아투데이",
+   "summary": "금감원은 11월 16일부터 신한·우리·NH농협·IBK기업은행의 고위험 영업점 1~2곳을 사전 통보 없이 점포당 5영업일 기본으로 검사하고 있으며, 이를 매년 실시할 방침입니다. 대출 심사·실행·사후관리 내부통제 준수 여부를 점검하며, 5대 은행 금융사고는 2021년 21건에서 지난해 75건, 올해 8월까지 34건이었습니다.",
+   "title": "금감원, 11년 만에 부활한 영업점 불시검사 매년 실시 추진…농협 등 4개 은행",
+   "type": "news",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010007135",
+   "_id": "n-20261118-nh-fss-surprise-inspection"
+  },
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "posco-intl",
+   "date": "2026-11-18",
+   "important": true,
+   "segment": "소재·희토류",
+   "source": "더퍼블릭(매일경제 인용)",
+   "summary": "금융당국과 포스코인터내셔널이 말레이시아 등 2~3개 해외 희토류 사업을 묶어 국민성장펀드로 지원하는 방안을 실무 협의 중이며, 회사가 타진한 자금은 약 1조 원입니다. 현지 광산 지분 확보와 관련 기업 사업부 M&A까지 검토되며, 투자심의위원회·기금운용심의회 의결이 필요하고 연내 승인 여부는 불투명하다는 전망입니다. 보도 당일 주가는 장중 5%대(5만 1,500원) 올랐습니다(아이뉴스24).",
+   "title": "국민성장펀드 '핵심광물 1호' 투자로 해외 희토류 사업 지원 검토…약 1조 원",
+   "type": "news",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=327237",
+   "_id": "n-20261118-pi-ngf-rare-earth"
+  },
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "기업금융",
+   "source": "파이낸셜경제",
+   "summary": "신한은행은 11월 17일 종로구와 2027년 1월 1일~2030년 12월 31일 구금고 약정을 체결했습니다. 일반·특별회계와 기금의 세입 수납, 세출 지급, 여유자금 관리를 맡으며, 기존 우리은행 약정 만료에 따른 공개경쟁 입찰과 금고지정심의위원회 심사를 거쳐 선정됐습니다.",
+   "title": "신한은행, 2027년부터 4년간 서울 종로구 구금고 운영",
+   "type": "news",
+   "url": "https://www.fnewstv.com/news/newsview.php?ncode=1065571803973611",
+   "_id": "n-20261118-sh-jongno-treasury"
+  },
+  {
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "woori-bank",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "기업금융",
+   "source": "위키트리",
+   "summary": "6개 시중은행을 대상으로 한 상생금융지수(상생금융 40점·협력 40점·중소기업 만족도 20점) 평가에서 우리은행이 우수은행으로 선정됐습니다(11월 11일 발표, 메트로신문에 따르면 기업은행과 함께 선정). 비수도권 전용 채널, '우리 지역선도기업 대출', 공급망 플랫폼 '원비즈플라자'를 통한 판로 지원이 근거로 제시됐습니다.",
+   "title": "우리은행, 첫 '상생금융지수' 평가에서 우수은행 선정",
+   "type": "news",
+   "url": "https://www.wikitree.co.kr/articles/1175612",
+   "_id": "n-20261118-woori-shared-growth-index"
+  },
   {
    "addedAt": "2026-11-17T22:45:42Z",
    "company": "ibk",
@@ -537,6 +654,19 @@
    "type": "news",
    "url": "https://view.asiae.co.kr/article/2026111709293739577",
    "_id": "n-20261117-kb-ahn-junggeun-video"
+  },
+  {
+   "addedAt": "2026-11-17T08:46:15Z",
+   "company": "kb-bank",
+   "date": "2026-11-17",
+   "important": false,
+   "segment": "가계·리테일",
+   "source": "토요경제",
+   "summary": "신규 코픽스 연동 6개월 변동형 주담대 금리를 연 4.66~6.06%에서 4.85~6.25%로, 주금공 보증 전세대출 금리를 4.70~6.10%로 올렸습니다. 10월 신규 코픽스는 3.62%로 전월 대비 0.19%p 상승해 2024년 2월 이후 최고입니다.",
+   "title": "국민은행, 17일부터 주담대 변동금리 0.19%p 인상…코픽스 2년 8개월 최고",
+   "type": "news",
+   "url": "https://sateconomy.co.kr/news/view/1065585476602533",
+   "_id": "n-20261117-kb-mortgage-rate-hike"
   },
   {
    "addedAt": "2026-11-17T22:45:42Z",
@@ -578,6 +708,19 @@
    "_id": "n-20261117-nh-allwonderful-senior"
   },
   {
+   "addedAt": "2026-11-17T08:46:15Z",
+   "company": "nh-bank",
+   "date": "2026-11-17",
+   "important": false,
+   "segment": "가계·리테일",
+   "source": "토요경제",
+   "summary": "신규 코픽스 연동 6개월 변동형 주담대 금리를 연 4.38~6.38%에서 4.51~6.51%로 올렸습니다. 농협은행은 지난달 말 주담대 금리를 최대 0.20%p 내린 바 있으며, 10월 신규 코픽스는 3.62%입니다.",
+   "title": "농협은행, 17일부터 주담대 변동금리 0.13%p 인상…코픽스 2년 8개월 최고",
+   "type": "news",
+   "url": "https://sateconomy.co.kr/news/view/1065585476602533",
+   "_id": "n-20261117-nh-mortgage-rate-hike"
+  },
+  {
    "addedAt": "2026-11-17T22:45:42Z",
    "company": "posco-intl",
    "date": "2026-11-17",
@@ -604,43 +747,17 @@
    "_id": "n-20261117-pi-arc-haleu"
   },
   {
-   "addedAt": "2026-11-17T22:45:42Z",
-   "company": "woori-bank",
+   "addedAt": "2026-11-16T22:45:56Z",
+   "company": "posco-intl",
    "date": "2026-11-17",
    "important": false,
-   "segment": "디지털·AI",
-   "source": "글로벌이코노믹",
-   "summary": "11월 17일~12월 31일 환전 신청 고객 선착순 2만 명에게 130여 개국에서 쓰는 1GB eSIM 이용권을 제공합니다. 여행 플랫폼 '더라운지' 운영사 이브릿지와 제휴했습니다.",
-   "title": "우리은행, WON뱅킹 '환전주머니' 고객에 해외 데이터 1GB eSIM 제공",
+   "segment": "철강",
+   "source": "글로벌이코노믹(로이터 인용)",
+   "summary": "EU가 11월 17일부터 냉간압연 평판강에 반덤핑 관세를 부과합니다. 세율은 일본 27.9%, 대만 20.7~27%, 베트남 16%, 인도 9.5%, 터키 3.0~7.8%이며, 한국은 대상국에 포함되지 않았습니다. 5개국 수입액은 약 17억 7,500만 유로입니다.",
+   "title": "EU, 일본·대만·베트남·인도·터키 냉연강판에 최고 27.9% 반덤핑 관세",
    "type": "news",
-   "url": "https://www.g-enews.com/article/Finance/2026/11/202611171016538251bb91c46fcd_1",
-   "_id": "n-20261117-woori-fx-esim"
-  },
-  {
-   "addedAt": "2026-11-17T08:46:15Z",
-   "company": "kb-bank",
-   "date": "2026-11-17",
-   "important": false,
-   "segment": "가계·리테일",
-   "source": "토요경제",
-   "summary": "신규 코픽스 연동 6개월 변동형 주담대 금리를 연 4.66~6.06%에서 4.85~6.25%로, 주금공 보증 전세대출 금리를 4.70~6.10%로 올렸습니다. 10월 신규 코픽스는 3.62%로 전월 대비 0.19%p 상승해 2024년 2월 이후 최고입니다.",
-   "title": "국민은행, 17일부터 주담대 변동금리 0.19%p 인상…코픽스 2년 8개월 최고",
-   "type": "news",
-   "url": "https://sateconomy.co.kr/news/view/1065585476602533",
-   "_id": "n-20261117-kb-mortgage-rate-hike"
-  },
-  {
-   "addedAt": "2026-11-17T08:46:15Z",
-   "company": "nh-bank",
-   "date": "2026-11-17",
-   "important": false,
-   "segment": "가계·리테일",
-   "source": "토요경제",
-   "summary": "신규 코픽스 연동 6개월 변동형 주담대 금리를 연 4.38~6.38%에서 4.51~6.51%로 올렸습니다. 농협은행은 지난달 말 주담대 금리를 최대 0.20%p 내린 바 있으며, 10월 신규 코픽스는 3.62%입니다.",
-   "title": "농협은행, 17일부터 주담대 변동금리 0.13%p 인상…코픽스 2년 8개월 최고",
-   "type": "news",
-   "url": "https://sateconomy.co.kr/news/view/1065585476602533",
-   "_id": "n-20261117-nh-mortgage-rate-hike"
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611170653365432bd56fbc3c_1",
+   "_id": "n-20261117-pi-eu-coldrolled-ad"
   },
   {
    "addedAt": "2026-11-17T08:46:15Z",
@@ -669,6 +786,19 @@
    "_id": "n-20261117-pi-senex-gas"
   },
   {
+   "addedAt": "2026-11-17T22:45:42Z",
+   "company": "woori-bank",
+   "date": "2026-11-17",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "글로벌이코노믹",
+   "summary": "11월 17일~12월 31일 환전 신청 고객 선착순 2만 명에게 130여 개국에서 쓰는 1GB eSIM 이용권을 제공합니다. 여행 플랫폼 '더라운지' 운영사 이브릿지와 제휴했습니다.",
+   "title": "우리은행, WON뱅킹 '환전주머니' 고객에 해외 데이터 1GB eSIM 제공",
+   "type": "news",
+   "url": "https://www.g-enews.com/article/Finance/2026/11/202611171016538251bb91c46fcd_1",
+   "_id": "n-20261117-woori-fx-esim"
+  },
+  {
    "addedAt": "2026-11-17T08:46:15Z",
    "company": "woori-bank",
    "date": "2026-11-17",
@@ -680,71 +810,6 @@
    "type": "news",
    "url": "https://sateconomy.co.kr/news/view/1065585476602533",
    "_id": "n-20261117-woori-mortgage-rate-hike"
-  },
-  {
-   "addedAt": "2026-11-16T22:45:56Z",
-   "company": "posco-intl",
-   "date": "2026-11-17",
-   "important": false,
-   "segment": "철강",
-   "source": "글로벌이코노믹(로이터 인용)",
-   "summary": "EU가 11월 17일부터 냉간압연 평판강에 반덤핑 관세를 부과합니다. 세율은 일본 27.9%, 대만 20.7~27%, 베트남 16%, 인도 9.5%, 터키 3.0~7.8%이며, 한국은 대상국에 포함되지 않았습니다. 5개국 수입액은 약 17억 7,500만 유로입니다.",
-   "title": "EU, 일본·대만·베트남·인도·터키 냉연강판에 최고 27.9% 반덤핑 관세",
-   "type": "news",
-   "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611170653365432bd56fbc3c_1",
-   "_id": "n-20261117-pi-eu-coldrolled-ad"
-  },
-  {
-   "addedAt": "2026-11-16T22:45:56Z",
-   "company": "kb-bank",
-   "date": "2026-11-16",
-   "important": false,
-   "segment": "건전성·규제",
-   "source": "대한금융신문",
-   "summary": "10월 말 KB국민 등 5대 은행 저축성예금은 1,077조 6,272억원으로 전월보다 25조 2,651억원 늘었고, 요구불예금은 9조 5,447억원 줄었습니다. 저원가성 자금 비중 축소로 연내 의미 있는 NIM 반등은 어렵다는 업계 전망이 나왔습니다.",
-   "title": "5대 은행 저축성예금 한 달새 25조 증가…조달비용 부담",
-   "type": "news",
-   "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226446",
-   "_id": "n-20261116-kb-deposit-cost-nim"
-  },
-  {
-   "addedAt": "2026-11-16T22:45:56Z",
-   "company": "knia",
-   "date": "2026-11-16",
-   "important": false,
-   "segment": "전사",
-   "source": "이투데이",
-   "summary": "이병래 손보협회장 임기는 12월 22일 끝나지만 11월 16일 기준 선임 일정은 정해지지 않았습니다. 최영무 전 삼성화재 사장, 조용일 전 현대해상 부회장, 유광열 전 SGI서울보증 사장이 거론되며, 후임이 정해지지 않으면 현 회장이 직무를 계속 수행합니다.",
-   "title": "보험협회장 인선 앞두고 하마평…손보협회 선임 일정 아직 미정",
-   "type": "news",
-   "url": "https://www.etoday.co.kr/news/view/2648747",
-   "_id": "n-20261116-knia-chair-candidates"
-  },
-  {
-   "addedAt": "2026-11-16T22:45:56Z",
-   "company": "nh-bank",
-   "date": "2026-11-16",
-   "important": false,
-   "segment": "디지털·AI",
-   "source": "넥스트데일리",
-   "summary": "NH농협은행이 국내 휴대전화 번호 없이 NH올원뱅크 앱에서 전자여권 확인과 얼굴 촬영으로 발급받는 재외국민용 인증서를 내놓았습니다. 공공·금융·쇼핑·통신·의료·교육 서비스 본인확인에 쓸 수 있습니다.",
-   "title": "재외국민용 NH인증서 출시…국내 휴대전화 번호 없이 발급",
-   "type": "news",
-   "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254922",
-   "_id": "n-20261116-nh-overseas-cert"
-  },
-  {
-   "addedAt": "2026-11-16T22:45:56Z",
-   "company": "posco-intl",
-   "date": "2026-11-16",
-   "important": false,
-   "segment": "에너지",
-   "source": "머니투데이(서플 게재)",
-   "summary": "포스코인터내셔널이 11월 9일 송도 포스코타워에서 블루마그넷과 원전 방사성 폐액 처리 공동 사업개발 협약을 맺었습니다. 블루마그넷은 자기기능성 소재·처리 기술(뉴마그네토)을, 포스코인터내셔널은 글로벌 네트워크와 해외 사업개발을 맡으며, 일본 측과 기술 미팅을 시작했습니다.",
-   "title": "블루마그넷과 원전 방사성 폐액 처리 공동 사업개발 MOU",
-   "type": "news",
-   "url": "https://supple.kr/news/cmwj194f815wbjkunjcgtq4et",
-   "_id": "n-20261116-pi-bluemagnet-mou"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -773,17 +838,30 @@
    "_id": "n-20261116-ibk-monthly-interest-bond"
   },
   {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "woori-bank",
+   "addedAt": "2026-11-18T08:45:59Z",
+   "company": "kb-bank",
    "date": "2026-11-16",
-   "important": true,
-   "segment": "건전성·규제",
+   "important": false,
+   "segment": "기업금융",
    "source": "아시아투데이",
-   "summary": "금감원은 11월 16일부터 신한·우리·농협·기업은행의 고위험 영업점 1~2곳을 대상으로 여신 내부통제 작동 여부를 불시 점검합니다. 6월 이후 외부인의 허위 서류 대출 사례가 은행권에서 이어졌으며, 보도상 우리은행 관련 금액은 98억원입니다.",
-   "title": "금감원, 우리 등 4개 은행 영업점 불시 현장검사 착수",
+   "summary": "9월 말 기업대출 잔액은 204조 8,320억 원으로 연초 이후 10조 원 넘게 늘었고 원화대출 중 비중은 52.4%입니다. 3분기 누적 기업금융 순익은 1조 2,053억 원으로 전년 동기 대비 2.0% 줄었으며, 기업예금 금리 상승으로 이자비용이 3조 5,613억 원으로 늘었습니다. 서기원 CFO는 4분기 대출자산 금리 재산정 효과를 전망했습니다.",
+   "title": "국민은행 기업대출 204조 원으로 확대…기업금융 순익은 수익성 조정",
    "type": "news",
-   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005988",
-   "_id": "n-20261116-woori-fss-branch-inspection"
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006200",
+   "_id": "n-20261116-kb-corp-loan-profitability"
+  },
+  {
+   "addedAt": "2026-11-16T22:45:56Z",
+   "company": "kb-bank",
+   "date": "2026-11-16",
+   "important": false,
+   "segment": "건전성·규제",
+   "source": "대한금융신문",
+   "summary": "10월 말 KB국민 등 5대 은행 저축성예금은 1,077조 6,272억원으로 전월보다 25조 2,651억원 늘었고, 요구불예금은 9조 5,447억원 줄었습니다. 저원가성 자금 비중 축소로 연내 의미 있는 NIM 반등은 어렵다는 업계 전망이 나왔습니다.",
+   "title": "5대 은행 저축성예금 한 달새 25조 증가…조달비용 부담",
+   "type": "news",
+   "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226446",
+   "_id": "n-20261116-kb-deposit-cost-nim"
   },
   {
    "addedAt": "2026-11-16T09:27:21Z",
@@ -799,17 +877,43 @@
    "_id": "n-20261116-kb-sp500-fx-eld"
   },
   {
-   "addedAt": "2026-11-16T09:27:21Z",
-   "company": "shinhan-bank",
+   "addedAt": "2026-11-16T01:11:20Z",
+   "company": "knia",
+   "date": "2026-11-16",
+   "important": true,
+   "segment": "손해보험 산업",
+   "source": "세계일보",
+   "summary": "손보 빅5의 3분기 합산 당기순이익은 1조6342억원으로 전년 동기 대비 5.1% 감소했다. 본업인 보험손익은 개선됐으나 증시 하락과 대체투자 평가손실로 투자손익이 줄었고, DB손보는 3분기 순이익 4440억원(35.3%↑)으로 2위권에 올랐다.",
+   "title": "손보 빅5 3분기 합산 순익 1조6342억…투자손익이 희비 갈라",
+   "type": "news",
+   "url": "https://www.segye.com/newsView/20261115508907",
+   "_id": "n-20261116-knia-big5-q3-quarter"
+  },
+  {
+   "addedAt": "2026-11-16T22:45:56Z",
+   "company": "knia",
+   "date": "2026-11-16",
+   "important": false,
+   "segment": "전사",
+   "source": "이투데이",
+   "summary": "이병래 손보협회장 임기는 12월 22일 끝나지만 11월 16일 기준 선임 일정은 정해지지 않았습니다. 최영무 전 삼성화재 사장, 조용일 전 현대해상 부회장, 유광열 전 SGI서울보증 사장이 거론되며, 후임이 정해지지 않으면 현 회장이 직무를 계속 수행합니다.",
+   "title": "보험협회장 인선 앞두고 하마평…손보협회 선임 일정 아직 미정",
+   "type": "news",
+   "url": "https://www.etoday.co.kr/news/view/2648747",
+   "_id": "n-20261116-knia-chair-candidates"
+  },
+  {
+   "addedAt": "2026-11-16T22:45:56Z",
+   "company": "nh-bank",
    "date": "2026-11-16",
    "important": false,
    "segment": "디지털·AI",
-   "source": "뉴스핌",
-   "summary": "15일 이탈리아 밀라노 ICAIF 2026 워크숍에서 은행 업무 특화 LLM 평가 벤치마크 'K-BankEval'(6개 영역 5,000문항, LLM 6종 비교)과 AI 에이전트의 최종 답변·도구 사용 로그까지 검증하는 'Agent Foundry'를 발표했습니다. 범용 성능이 은행 업무 성능을 보장하지 않는다는 결과를 제시했습니다.",
-   "title": "신한은행, 국제 AI 학술대회 ICAIF 2026서 금융 AI 검증 논문 2편 발표",
+   "source": "넥스트데일리",
+   "summary": "NH농협은행이 국내 휴대전화 번호 없이 NH올원뱅크 앱에서 전자여권 확인과 얼굴 촬영으로 발급받는 재외국민용 인증서를 내놓았습니다. 공공·금융·쇼핑·통신·의료·교육 서비스 본인확인에 쓸 수 있습니다.",
+   "title": "재외국민용 NH인증서 출시…국내 휴대전화 번호 없이 발급",
    "type": "news",
-   "url": "https://www.newspim.com/news/view/20261116000814",
-   "_id": "n-20261116-sh-icaif-ai-eval"
+   "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254922",
+   "_id": "n-20261116-nh-overseas-cert"
   },
   {
    "addedAt": "2026-11-16T08:46:13Z",
@@ -825,17 +929,43 @@
    "_id": "n-20261116-pi-blackrock-graphite"
   },
   {
-   "addedAt": "2026-11-16T01:11:20Z",
-   "company": "knia",
+   "addedAt": "2026-11-16T22:45:56Z",
+   "company": "posco-intl",
+   "date": "2026-11-16",
+   "important": false,
+   "segment": "에너지",
+   "source": "머니투데이(서플 게재)",
+   "summary": "포스코인터내셔널이 11월 9일 송도 포스코타워에서 블루마그넷과 원전 방사성 폐액 처리 공동 사업개발 협약을 맺었습니다. 블루마그넷은 자기기능성 소재·처리 기술(뉴마그네토)을, 포스코인터내셔널은 글로벌 네트워크와 해외 사업개발을 맡으며, 일본 측과 기술 미팅을 시작했습니다.",
+   "title": "블루마그넷과 원전 방사성 폐액 처리 공동 사업개발 MOU",
+   "type": "news",
+   "url": "https://supple.kr/news/cmwj194f815wbjkunjcgtq4et",
+   "_id": "n-20261116-pi-bluemagnet-mou"
+  },
+  {
+   "addedAt": "2026-11-16T09:27:21Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-16",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "뉴스핌",
+   "summary": "15일 이탈리아 밀라노 ICAIF 2026 워크숍에서 은행 업무 특화 LLM 평가 벤치마크 'K-BankEval'(6개 영역 5,000문항, LLM 6종 비교)과 AI 에이전트의 최종 답변·도구 사용 로그까지 검증하는 'Agent Foundry'를 발표했습니다. 범용 성능이 은행 업무 성능을 보장하지 않는다는 결과를 제시했습니다.",
+   "title": "신한은행, 국제 AI 학술대회 ICAIF 2026서 금융 AI 검증 논문 2편 발표",
+   "type": "news",
+   "url": "https://www.newspim.com/news/view/20261116000814",
+   "_id": "n-20261116-sh-icaif-ai-eval"
+  },
+  {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "woori-bank",
    "date": "2026-11-16",
    "important": true,
-   "segment": "손해보험 산업",
-   "source": "세계일보",
-   "summary": "손보 빅5의 3분기 합산 당기순이익은 1조6342억원으로 전년 동기 대비 5.1% 감소했다. 본업인 보험손익은 개선됐으나 증시 하락과 대체투자 평가손실로 투자손익이 줄었고, DB손보는 3분기 순이익 4440억원(35.3%↑)으로 2위권에 올랐다.",
-   "title": "손보 빅5 3분기 합산 순익 1조6342억…투자손익이 희비 갈라",
+   "segment": "건전성·규제",
+   "source": "아시아투데이",
+   "summary": "금감원은 11월 16일부터 신한·우리·농협·기업은행의 고위험 영업점 1~2곳을 대상으로 여신 내부통제 작동 여부를 불시 점검합니다. 6월 이후 외부인의 허위 서류 대출 사례가 은행권에서 이어졌으며, 보도상 우리은행 관련 금액은 98억원입니다.",
+   "title": "금감원, 우리 등 4개 은행 영업점 불시 현장검사 착수",
    "type": "news",
-   "url": "https://www.segye.com/newsView/20261115508907",
-   "_id": "n-20261116-knia-big5-q3-quarter"
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005988",
+   "_id": "n-20261116-woori-fss-branch-inspection"
   },
   {
    "addedAt": "2026-11-17T22:45:42Z",
@@ -849,19 +979,6 @@
    "type": "news",
    "url": "https://fnnews.com/news/202611151813116636",
    "_id": "n-20261115-kb-remote-inheritance"
-  },
-  {
-   "addedAt": "2026-11-17T22:45:42Z",
-   "company": "shinhan-bank",
-   "date": "2026-11-15",
-   "important": false,
-   "segment": "가계·리테일",
-   "source": "파이낸셜뉴스",
-   "summary": "금융위가 11일 주요 은행 실무자와 장기 고정금리 주담대 공급 방안을 논의했습니다. 신규 주담대 고정금리 비중은 1년 새 91.5%에서 34.2%로 낮아졌고, 신한은행 10년 고정형 금리는 4.69~6.09%(11/15 기준)입니다.",
-   "title": "금융위, 10년 이상 고정형 주담대 공급 논의…현재 신한·기업은행 등 일부만 취급",
-   "type": "news",
-   "url": "https://www.fnnews.com/news/202611150923063560",
-   "_id": "n-20261115-sh-fixed-mortgage-10y"
   },
   {
    "addedAt": "2026-11-16T22:45:56Z",
@@ -888,6 +1005,19 @@
    "type": "news",
    "url": "https://www.ajunews.com/view/20261115144211162",
    "_id": "n-20261115-sh-ceo-final-dec"
+  },
+  {
+   "addedAt": "2026-11-17T22:45:42Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-15",
+   "important": false,
+   "segment": "가계·리테일",
+   "source": "파이낸셜뉴스",
+   "summary": "금융위가 11일 주요 은행 실무자와 장기 고정금리 주담대 공급 방안을 논의했습니다. 신규 주담대 고정금리 비중은 1년 새 91.5%에서 34.2%로 낮아졌고, 신한은행 10년 고정형 금리는 4.69~6.09%(11/15 기준)입니다.",
+   "title": "금융위, 10년 이상 고정형 주담대 공급 논의…현재 신한·기업은행 등 일부만 취급",
+   "type": "news",
+   "url": "https://www.fnnews.com/news/202611150923063560",
+   "_id": "n-20261115-sh-fixed-mortgage-10y"
   },
   {
    "addedAt": "2026-11-14T09:20:00Z",
@@ -926,17 +1056,16 @@
    "company": "posco-intl"
   },
   {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "woori-bank",
+   "addedAt": "2026-11-14T09:20:00Z",
    "date": "2026-11-13",
-   "important": true,
-   "segment": "전사",
-   "source": "한국경제",
-   "summary": "우리금융 자추위는 11월 13일 정진완 행장을 최종 후보로 추천해 임기를 2027년 말까지 1년 연장했습니다. 은행 CET1비율을 시중은행 2위 수준으로 끌어올린 점 등이 평가됐으며, 은행 임추위 심사와 이달 말 주주총회를 거쳐 확정됩니다.",
-   "title": "정진완 우리은행장 1년 연임…2027년 말까지",
+   "segment": "에너지",
+   "source": "IB토마토",
+   "summary": "싱가포르 법인이 15년간 연 37만 톤 LNG를 포스코에 공급 예정. 그룹 내 수익 순위는 철강에 이어 2위. 내년 투자 검토 규모는 약 2조 원으로, 절반가량을 에너지에 투입하는 방안 검토.",
+   "title": "포스코인터, LNG 투자에 이익도 뛴다…그룹 ‘2인자’ 입지 강화",
    "type": "news",
-   "url": "https://www.hankyung.com/article/2026111358121",
-   "_id": "n-20261113-woori-ceo-reappointed"
+   "url": "https://www.ibtomato.com/ExternalView.aspx?type=1&no=20102",
+   "_id": "n-20261113-ibtomato-lng",
+   "company": "posco-intl"
   },
   {
    "addedAt": "2026-11-16T01:24:11Z",
@@ -967,18 +1096,6 @@
   {
    "addedAt": "2026-11-14T09:20:00Z",
    "date": "2026-11-13",
-   "segment": "에너지",
-   "source": "IB토마토",
-   "summary": "싱가포르 법인이 15년간 연 37만 톤 LNG를 포스코에 공급 예정. 그룹 내 수익 순위는 철강에 이어 2위. 내년 투자 검토 규모는 약 2조 원으로, 절반가량을 에너지에 투입하는 방안 검토.",
-   "title": "포스코인터, LNG 투자에 이익도 뛴다…그룹 ‘2인자’ 입지 강화",
-   "type": "news",
-   "url": "https://www.ibtomato.com/ExternalView.aspx?type=1&no=20102",
-   "_id": "n-20261113-ibtomato-lng",
-   "company": "posco-intl"
-  },
-  {
-   "addedAt": "2026-11-14T09:20:00Z",
-   "date": "2026-11-13",
    "important": true,
    "segment": "소재·희토류",
    "source": "뉴스핌",
@@ -1002,6 +1119,19 @@
    "company": "posco-intl"
   },
   {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "woori-bank",
+   "date": "2026-11-13",
+   "important": true,
+   "segment": "전사",
+   "source": "한국경제",
+   "summary": "우리금융 자추위는 11월 13일 정진완 행장을 최종 후보로 추천해 임기를 2027년 말까지 1년 연장했습니다. 은행 CET1비율을 시중은행 2위 수준으로 끌어올린 점 등이 평가됐으며, 은행 임추위 심사와 이달 말 주주총회를 거쳐 확정됩니다.",
+   "title": "정진완 우리은행장 1년 연임…2027년 말까지",
+   "type": "news",
+   "url": "https://www.hankyung.com/article/2026111358121",
+   "_id": "n-20261113-woori-ceo-reappointed"
+  },
+  {
    "addedAt": "2026-11-16T01:11:20Z",
    "company": "knia",
    "date": "2026-11-12",
@@ -1013,6 +1143,19 @@
    "type": "news",
    "url": "https://view.asiae.co.kr/article/2026111219454875220",
    "_id": "n-20261112-knia-db-q3"
+  },
+  {
+   "addedAt": "2026-11-16T01:11:20Z",
+   "company": "kb-bank",
+   "date": "2026-11-11",
+   "important": true,
+   "segment": "건전성·규제",
+   "source": "머니투데이방송(MTN)",
+   "summary": "KB금융이 금융위·공정위 과징금 부과에 따른 국민은행 3분기 잠정실적 정정 공시. 누적 순이익 3조5648억원→3조7484억원(1836억원 증가), 3분기 순이익 1조3406억원→1조5242억원. 신한은행(3조6848억원)을 636억원 앞서게 됐으며, 연간 순위는 4분기 실적에 달렸다는 전망.",
+   "title": "국민은행, ELS 충당부채 환입으로 3분기 순익 1836억 정정…리딩뱅크 탈환",
+   "type": "disclosure",
+   "url": "https://news.mtn.co.kr/article/2026111118004298643",
+   "_id": "d-20261111-kb-q3-restatement-els-reversal"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -1041,6 +1184,19 @@
    "_id": "n-20261111-kb-ncsi-first"
   },
   {
+   "addedAt": "2026-11-16T01:11:20Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-11",
+   "important": false,
+   "segment": "가계·리테일",
+   "source": "MTN",
+   "summary": "10월 전 금융권 가계대출이 6조4000억원 늘었고 은행권은 5조원 증가했다. 1~10월 누적 증가액은 42조4000억원으로, 당국은 총량관리를 유지하며 연말 '대출 절벽'을 막을 방침이다(업권 전체 기사, 신한은행 개별 언급 없음).",
+   "title": "가계대출 한 달 새 6.4조 급증…당국 총량관리 유지",
+   "type": "news",
+   "url": "https://news.mtn.co.kr/article/2026111110223910242",
+   "_id": "n-20261111-sh-household-loan-regulation"
+  },
+  {
    "addedAt": "2026-11-16T01:24:11Z",
    "company": "shinhan-bank",
    "date": "2026-11-11",
@@ -1054,30 +1210,30 @@
    "_id": "n-20261111-sh-ncsi-first"
   },
   {
-   "addedAt": "2026-11-16T01:11:20Z",
-   "company": "kb-bank",
-   "date": "2026-11-11",
+   "addedAt": "2026-11-14T09:20:00Z",
+   "date": "2026-11-10",
    "important": true,
-   "segment": "건전성·규제",
-   "source": "머니투데이방송(MTN)",
-   "summary": "KB금융이 금융위·공정위 과징금 부과에 따른 국민은행 3분기 잠정실적 정정 공시. 누적 순이익 3조5648억원→3조7484억원(1836억원 증가), 3분기 순이익 1조3406억원→1조5242억원. 신한은행(3조6848억원)을 636억원 앞서게 됐으며, 연간 순위는 4분기 실적에 달렸다는 전망.",
-   "title": "국민은행, ELS 충당부채 환입으로 3분기 순익 1836억 정정…리딩뱅크 탈환",
-   "type": "disclosure",
-   "url": "https://news.mtn.co.kr/article/2026111118004298643",
-   "_id": "d-20261111-kb-q3-restatement-els-reversal"
+   "segment": "에너지",
+   "source": "파이낸셜뉴스",
+   "summary": "총 9,492억 원 투입, 20만㎘급 탱크 2기 추가(6기→8기). 27만㎥급 운반선 부두와 2만㎥급 벙커링 부두 확보. 선박 간(STS) 벙커링은 2027년 2분기 시작 계획.",
+   "title": "광양 제2 LNG터미널 종합준공…저장능력 133만㎘로 확대",
+   "type": "news",
+   "url": "https://www.fnnews.com/news/202611101815482875",
+   "_id": "n-20261110-gwangyang-lng2",
+   "company": "posco-intl"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
-   "company": "shinhan-bank",
-   "date": "2026-11-11",
+   "company": "kb-bank",
+   "date": "2026-11-10",
    "important": false,
-   "segment": "가계·리테일",
-   "source": "MTN",
-   "summary": "10월 전 금융권 가계대출이 6조4000억원 늘었고 은행권은 5조원 증가했다. 1~10월 누적 증가액은 42조4000억원으로, 당국은 총량관리를 유지하며 연말 '대출 절벽'을 막을 방침이다(업권 전체 기사, 신한은행 개별 언급 없음).",
-   "title": "가계대출 한 달 새 6.4조 급증…당국 총량관리 유지",
+   "segment": "전사",
+   "source": "비즈니스워치",
+   "summary": "이재근 회장 내정자(1966년생)가 '과감한 변화와 세대교체'를 이유로 선임된 가운데 이환주 행장(1964년생) 후임으로 1968년생 후보군 거론. KB금융 자회사 11곳 중 10곳 CEO 임기가 연말 만료.",
+   "title": "은행장 세대교체 시동…국민은행장 후임 1960년대 후반생 거론",
    "type": "news",
-   "url": "https://news.mtn.co.kr/article/2026111110223910242",
-   "_id": "n-20261111-sh-household-loan-regulation"
+   "url": "https://news.bizwatch.co.kr/article/finance/2026/11/09/0033",
+   "_id": "n-20261110-kb-bank-ceo-generation-shift"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -1106,32 +1262,6 @@
    "_id": "n-20261110-sh-bankplus-esteel4u"
   },
   {
-   "addedAt": "2026-11-16T01:11:20Z",
-   "company": "kb-bank",
-   "date": "2026-11-10",
-   "important": false,
-   "segment": "전사",
-   "source": "비즈니스워치",
-   "summary": "이재근 회장 내정자(1966년생)가 '과감한 변화와 세대교체'를 이유로 선임된 가운데 이환주 행장(1964년생) 후임으로 1968년생 후보군 거론. KB금융 자회사 11곳 중 10곳 CEO 임기가 연말 만료.",
-   "title": "은행장 세대교체 시동…국민은행장 후임 1960년대 후반생 거론",
-   "type": "news",
-   "url": "https://news.bizwatch.co.kr/article/finance/2026/11/09/0033",
-   "_id": "n-20261110-kb-bank-ceo-generation-shift"
-  },
-  {
-   "addedAt": "2026-11-14T09:20:00Z",
-   "date": "2026-11-10",
-   "important": true,
-   "segment": "에너지",
-   "source": "파이낸셜뉴스",
-   "summary": "총 9,492억 원 투입, 20만㎘급 탱크 2기 추가(6기→8기). 27만㎥급 운반선 부두와 2만㎥급 벙커링 부두 확보. 선박 간(STS) 벙커링은 2027년 2분기 시작 계획.",
-   "title": "광양 제2 LNG터미널 종합준공…저장능력 133만㎘로 확대",
-   "type": "news",
-   "url": "https://www.fnnews.com/news/202611101815482875",
-   "_id": "n-20261110-gwangyang-lng2",
-   "company": "posco-intl"
-  },
-  {
    "addedAt": "2026-11-14T09:20:00Z",
    "date": "2026-11-10",
    "segment": "에너지",
@@ -1142,19 +1272,6 @@
    "url": "https://www.sidae.com/article/2026110611424592695",
    "_id": "n-20261110-sidae-tank",
    "company": "posco-intl"
-  },
-  {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "woori-bank",
-   "date": "2026-11-06",
-   "important": false,
-   "segment": "전사",
-   "source": "이코노미스트",
-   "summary": "임종룡 회장은 11월 5일 MSCI 헨리 페르난데스 회장과 기후변화·AI가 금융에 미칠 영향을 논의했습니다. 우리은행은 9월 말까지 K-택소노미 기준 녹색여신 1조8000억원을 공급했고, 그룹은 2030년까지 ESG 금융 100조원 공급을 목표로 하고 있습니다.",
-   "title": "임종룡 회장, MSCI 회장과 녹색전환·AI 금융현안 논의",
-   "type": "news",
-   "url": "https://economist.co.kr/article/view/ecn202611060025",
-   "_id": "n-20261106-woori-msci-esg-meeting"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -1197,16 +1314,16 @@
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
-   "company": "nh-bank",
-   "date": "2026-11-05",
-   "important": true,
-   "segment": "디지털·AI",
-   "source": "더밸류뉴스",
-   "summary": "농협은행은 7월 인수한 AI 기업 애자일소다와 협업해 금융사고 예방·자금세탁방지, 상품 추천, 여신 심사, 해외 송금 등 핵심업무용 AI 에이전트 10종 시제품을 만들었습니다. 9월 초 개발에 착수해 한 달여 만에 완성했으며 11월 4~6일 계열사 임직원 대상 시연회를 열었습니다.",
-   "title": "농협은행, 애자일소다와 'AI 에이전트 10종' 시제품 구현",
+   "company": "woori-bank",
+   "date": "2026-11-06",
+   "important": false,
+   "segment": "전사",
+   "source": "이코노미스트",
+   "summary": "임종룡 회장은 11월 5일 MSCI 헨리 페르난데스 회장과 기후변화·AI가 금융에 미칠 영향을 논의했습니다. 우리은행은 9월 말까지 K-택소노미 기준 녹색여신 1조8000억원을 공급했고, 그룹은 2030년까지 ESG 금융 100조원 공급을 목표로 하고 있습니다.",
+   "title": "임종룡 회장, MSCI 회장과 녹색전환·AI 금융현안 논의",
    "type": "news",
-   "url": "https://www.thevaluenews.co.kr/news/203011",
-   "_id": "n-20261105-nh-ai-agents"
+   "url": "https://economist.co.kr/article/view/ecn202611060025",
+   "_id": "n-20261106-woori-msci-esg-meeting"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -1222,6 +1339,19 @@
    "_id": "d-20261105-knia-silson-nonpayment-rate"
   },
   {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "nh-bank",
+   "date": "2026-11-05",
+   "important": true,
+   "segment": "디지털·AI",
+   "source": "더밸류뉴스",
+   "summary": "농협은행은 7월 인수한 AI 기업 애자일소다와 협업해 금융사고 예방·자금세탁방지, 상품 추천, 여신 심사, 해외 송금 등 핵심업무용 AI 에이전트 10종 시제품을 만들었습니다. 9월 초 개발에 착수해 한 달여 만에 완성했으며 11월 4~6일 계열사 임직원 대상 시연회를 열었습니다.",
+   "title": "농협은행, 애자일소다와 'AI 에이전트 10종' 시제품 구현",
+   "type": "news",
+   "url": "https://www.thevaluenews.co.kr/news/203011",
+   "_id": "n-20261105-nh-ai-agents"
+  },
+  {
    "addedAt": "2026-11-05T00:00:00Z",
    "date": "2026-11-05",
    "important": true,
@@ -1233,6 +1363,19 @@
    "url": "https://news.bizwatch.co.kr/article/industry/2026/11/04/0035",
    "_id": "n-20261105-trading3",
    "company": "posco-intl"
+  },
+  {
+   "addedAt": "2026-11-16T01:11:20Z",
+   "company": "kb-bank",
+   "date": "2026-11-04",
+   "important": true,
+   "segment": "건전성·규제",
+   "source": "SBS Biz",
+   "summary": "금융위원회가 홍콩 H지수 ELS 불완전판매 관련 7개 은행 과징금 약 3,619억6,000만원 확정. KB국민은행 과징금 1,723억3,400만원(과태료 13억원 별도)으로 은행 중 최대. 금감원 당초 산정액(약 4조원)에서 자율배상 등을 반영해 감경.",
+   "title": "홍콩ELS 과징금 3619억 확정…국민은행 1723억원으로 최대",
+   "type": "news",
+   "url": "https://biz.sbs.co.kr/amp/article/20000344249",
+   "_id": "n-20261104-kb-els-fine-finalized"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -1262,19 +1405,6 @@
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
-   "company": "kb-bank",
-   "date": "2026-11-04",
-   "important": true,
-   "segment": "건전성·규제",
-   "source": "SBS Biz",
-   "summary": "금융위원회가 홍콩 H지수 ELS 불완전판매 관련 7개 은행 과징금 약 3,619억6,000만원 확정. KB국민은행 과징금 1,723억3,400만원(과태료 13억원 별도)으로 은행 중 최대. 금감원 당초 산정액(약 4조원)에서 자율배상 등을 반영해 감경.",
-   "title": "홍콩ELS 과징금 3619억 확정…국민은행 1723억원으로 최대",
-   "type": "news",
-   "url": "https://biz.sbs.co.kr/amp/article/20000344249",
-   "_id": "n-20261104-kb-els-fine-finalized"
-  },
-  {
-   "addedAt": "2026-11-16T01:11:20Z",
    "company": "shinhan-bank",
    "date": "2026-11-03",
    "important": true,
@@ -1285,6 +1415,18 @@
    "type": "ir",
    "url": "https://sateconomy.co.kr/news/view/1065615875298074",
    "_id": "ir-20261103-sh-bank-corporate-loans-cet1"
+  },
+  {
+   "addedAt": "2026-11-03T00:00:00Z",
+   "date": "2026-11-03",
+   "segment": "에너지",
+   "source": "아시아경제",
+   "summary": "9월 합의한 약 8,000억 원 규모 미국 셰일가스 자산 인수가 이달 말 마무리될 예정. 메리츠증권은 2028년부터 연 약 1,000억 원 영업이익 기여를 추정했습니다. 동남아 가스 자산 인수는 내년 상반기 추진 가능성.",
+   "title": "원자재 뛰자 웃는 포스코인터…배당 기대감도↑",
+   "type": "news",
+   "url": "https://view.asiae.co.kr/article/2026110218214252748",
+   "_id": "n-20261103-asiae-dividend",
+   "company": "posco-intl"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -1300,16 +1442,55 @@
    "_id": "n-20261103-kb-sme-loans-delinquency"
   },
   {
-   "addedAt": "2026-11-03T00:00:00Z",
-   "date": "2026-11-03",
-   "segment": "에너지",
-   "source": "아시아경제",
-   "summary": "9월 합의한 약 8,000억 원 규모 미국 셰일가스 자산 인수가 이달 말 마무리될 예정. 메리츠증권은 2028년부터 연 약 1,000억 원 영업이익 기여를 추정했습니다. 동남아 가스 자산 인수는 내년 상반기 추진 가능성.",
-   "title": "원자재 뛰자 웃는 포스코인터…배당 기대감도↑",
-   "type": "news",
-   "url": "https://view.asiae.co.kr/article/2026110218214252748",
-   "_id": "n-20261103-asiae-dividend",
+   "addedAt": "2026-11-02T03:00:00Z",
+   "date": "2026-11-02",
+   "important": true,
+   "segment": "전사",
+   "source": "SBS Biz",
+   "summary": "매출 9조 268억 원(+9.6%), 영업이익 4,007억 원(+24.0%), 순이익 4,018억 원(+91.6%). 전년 동기 대비, 회사 공시 기준.",
+   "title": "3분기 연결 잠정실적: 매출 9조 268억·영업이익 4,007억",
+   "type": "disclosure",
+   "url": "https://biz.sbs.co.kr/amp/article/20000343567",
+   "_id": "d-20261102-q3-prelim",
    "company": "posco-intl"
+  },
+  {
+   "addedAt": "2026-11-02T07:00:00Z",
+   "date": "2026-11-02",
+   "segment": "전사",
+   "source": "토요경제",
+   "summary": "누적 매출 27조 604억(+10.4%), 영업이익 1조 1,873억(+26.8%). 2025년 연간 영업이익 1조 1,653억 원을 220억 원 웃돌았고, 3분기 영업이익률은 약 4.4%.",
+   "title": "1~3분기 누적 영업이익 1조 1,873억…지난해 연간 실적 이미 넘어",
+   "type": "news",
+   "url": "https://sateconomy.co.kr/news/view/1065597653404504",
+   "_id": "n-20261102-cumulative",
+   "company": "posco-intl"
+  },
+  {
+   "addedAt": "2026-11-16T01:11:20Z",
+   "company": "kb-bank",
+   "date": "2026-11-02",
+   "important": true,
+   "segment": "전사",
+   "source": "이코노미스트",
+   "summary": "이재근 KB금융 회장 내정자는 11월 20일 임시주주총회를 거쳐 회장으로 공식 선임 예정. 이환주 국민은행장 임기는 12월 31일 만료되며, 차기 행장 후보로 정문철 KB라이프생명 대표·김재관 KB국민카드 대표·나상록 KB금융 CFO가 거론되고 연임 가능성도 열려 있음.",
+   "title": "이재근 KB금융 회장 내정자 첫 인사…국민은행장 거취 주목",
+   "type": "news",
+   "url": "https://economist.co.kr/article/view/ecn202610270024",
+   "_id": "n-20261102-kb-chairman-transition-ceo-succession"
+  },
+  {
+   "addedAt": "2026-11-16T01:11:20Z",
+   "company": "knia",
+   "date": "2026-11-02",
+   "important": true,
+   "segment": "전사",
+   "source": "미디어펜",
+   "summary": "이병래 손해보험협회장의 임기가 12월 22일 만료된다. 최영무 전 삼성화재 사장, 조용일 전 현대해상 부회장(민간 출신), 유광열 전 SGI서울보증 사장(관료 출신)이 거론되며, 다음달 회장후보추천위원회 구성이 예상된다.",
+   "title": "이병래 손보협회장 12월 22일 임기 만료…차기 회장 하마평",
+   "type": "news",
+   "url": "https://www.mediapen.com/news/view/1134394",
+   "_id": "n-20261102-knia-chairman-succession"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -1365,57 +1546,6 @@
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
-   "company": "kb-bank",
-   "date": "2026-11-02",
-   "important": true,
-   "segment": "전사",
-   "source": "이코노미스트",
-   "summary": "이재근 KB금융 회장 내정자는 11월 20일 임시주주총회를 거쳐 회장으로 공식 선임 예정. 이환주 국민은행장 임기는 12월 31일 만료되며, 차기 행장 후보로 정문철 KB라이프생명 대표·김재관 KB국민카드 대표·나상록 KB금융 CFO가 거론되고 연임 가능성도 열려 있음.",
-   "title": "이재근 KB금융 회장 내정자 첫 인사…국민은행장 거취 주목",
-   "type": "news",
-   "url": "https://economist.co.kr/article/view/ecn202610270024",
-   "_id": "n-20261102-kb-chairman-transition-ceo-succession"
-  },
-  {
-   "addedAt": "2026-11-16T01:11:20Z",
-   "company": "knia",
-   "date": "2026-11-02",
-   "important": true,
-   "segment": "전사",
-   "source": "미디어펜",
-   "summary": "이병래 손해보험협회장의 임기가 12월 22일 만료된다. 최영무 전 삼성화재 사장, 조용일 전 현대해상 부회장(민간 출신), 유광열 전 SGI서울보증 사장(관료 출신)이 거론되며, 다음달 회장후보추천위원회 구성이 예상된다.",
-   "title": "이병래 손보협회장 12월 22일 임기 만료…차기 회장 하마평",
-   "type": "news",
-   "url": "https://www.mediapen.com/news/view/1134394",
-   "_id": "n-20261102-knia-chairman-succession"
-  },
-  {
-   "addedAt": "2026-11-02T07:00:00Z",
-   "date": "2026-11-02",
-   "segment": "전사",
-   "source": "토요경제",
-   "summary": "누적 매출 27조 604억(+10.4%), 영업이익 1조 1,873억(+26.8%). 2025년 연간 영업이익 1조 1,653억 원을 220억 원 웃돌았고, 3분기 영업이익률은 약 4.4%.",
-   "title": "1~3분기 누적 영업이익 1조 1,873억…지난해 연간 실적 이미 넘어",
-   "type": "news",
-   "url": "https://sateconomy.co.kr/news/view/1065597653404504",
-   "_id": "n-20261102-cumulative",
-   "company": "posco-intl"
-  },
-  {
-   "addedAt": "2026-11-02T03:00:00Z",
-   "date": "2026-11-02",
-   "important": true,
-   "segment": "전사",
-   "source": "SBS Biz",
-   "summary": "매출 9조 268억 원(+9.6%), 영업이익 4,007억 원(+24.0%), 순이익 4,018억 원(+91.6%). 전년 동기 대비, 회사 공시 기준.",
-   "title": "3분기 연결 잠정실적: 매출 9조 268억·영업이익 4,007억",
-   "type": "disclosure",
-   "url": "https://biz.sbs.co.kr/amp/article/20000343567",
-   "_id": "d-20261102-q3-prelim",
-   "company": "posco-intl"
-  },
-  {
-   "addedAt": "2026-11-16T01:11:20Z",
    "company": "shinhan-bank",
    "date": "2026-10-30",
    "important": false,
@@ -1454,6 +1584,18 @@
    "_id": "ir-20261029-kb-q3-earnings-group"
   },
   {
+   "addedAt": "2026-10-29T00:00:00Z",
+   "date": "2026-10-29",
+   "segment": "모빌리티",
+   "source": "The EV Report",
+   "summary": "하이브리드 16만 7,414대(+3.8%), 전기차 6만 9,117대(-9.2%). 전동화 비중은 26.7%로 2.4%p 상승. 구동모터코아 수요 구성(HEV/BEV)을 읽는 지표.",
+   "title": "현대차 3분기: 하이브리드 +3.8%, 전기차 -9.2%",
+   "type": "news",
+   "url": "https://theevreport.com/hyundai-q3-2026-results-hybrid-ev-sales",
+   "_id": "n-20261029-hyundai-q3",
+   "company": "posco-intl"
+  },
+  {
    "addedAt": "2026-11-16T01:11:20Z",
    "company": "kb-bank",
    "date": "2026-10-29",
@@ -1478,18 +1620,6 @@
    "type": "news",
    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324198",
    "_id": "n-20261029-knia-chairman-achievements"
-  },
-  {
-   "addedAt": "2026-10-29T00:00:00Z",
-   "date": "2026-10-29",
-   "segment": "모빌리티",
-   "source": "The EV Report",
-   "summary": "하이브리드 16만 7,414대(+3.8%), 전기차 6만 9,117대(-9.2%). 전동화 비중은 26.7%로 2.4%p 상승. 구동모터코아 수요 구성(HEV/BEV)을 읽는 지표.",
-   "title": "현대차 3분기: 하이브리드 +3.8%, 전기차 -9.2%",
-   "type": "news",
-   "url": "https://theevreport.com/hyundai-q3-2026-results-hybrid-ev-sales",
-   "_id": "n-20261029-hyundai-q3",
-   "company": "posco-intl"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -1544,6 +1674,19 @@
    "_id": "ir-20261028-nh-group-q3-profit"
   },
   {
+   "addedAt": "2026-11-16T01:11:20Z",
+   "company": "shinhan-bank",
+   "date": "2026-10-28",
+   "important": false,
+   "segment": "전사",
+   "source": "MTN",
+   "summary": "신한금융 자회사CEO후보추천위원회가 10월 27일 신한은행·제주은행 1차 후보군을 선정했다. 12월 초 최종 후보를 추천하며, 정상혁 행장의 임기는 12월 만료된다.",
+   "title": "신한은행 차기 행장 1차 후보군 압축…12월 초 최종 추천",
+   "type": "news",
+   "url": "https://news.mtn.co.kr/article/2026102811133285430",
+   "_id": "n-20261028-sh-ceo-succession"
+  },
+  {
    "addedAt": "2026-11-16T10:29:35Z",
    "company": "woori-bank",
    "date": "2026-10-28",
@@ -1559,15 +1702,15 @@
   {
    "addedAt": "2026-11-16T01:11:20Z",
    "company": "shinhan-bank",
-   "date": "2026-10-28",
-   "important": false,
+   "date": "2026-10-27",
+   "important": true,
    "segment": "전사",
-   "source": "MTN",
-   "summary": "신한금융 자회사CEO후보추천위원회가 10월 27일 신한은행·제주은행 1차 후보군을 선정했다. 12월 초 최종 후보를 추천하며, 정상혁 행장의 임기는 12월 만료된다.",
-   "title": "신한은행 차기 행장 1차 후보군 압축…12월 초 최종 추천",
-   "type": "news",
-   "url": "https://news.mtn.co.kr/article/2026102811133285430",
-   "_id": "n-20261028-sh-ceo-succession"
+   "source": "바이라인네트워크",
+   "summary": "신한금융 3분기 누적 순이익은 5조274억원으로 전년 동기 대비 12.7% 증가했다. 신한은행 3분기 순이익은 1조2252억원(전분기 대비 5.9% 감소), 누적 순이익은 3조6837억원(전년 동기 대비 9.8% 증가)이며 연체율과 고정이하여신비율은 각각 0.29%였다. 총 4500억원 규모 자사주 매입과 주당 740원 배당도 발표했다.",
+   "title": "신한금융 3분기 누적 순익 5조원 돌파…신한은행 누적 3조6837억원",
+   "type": "ir",
+   "url": "https://byline.network/2026/10/1027-6",
+   "_id": "ir-20261027-sh-q3-earnings"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -1581,32 +1724,6 @@
    "type": "news",
    "url": "https://www.segye.com/newsView/20261027502622",
    "_id": "n-20261027-ibk-delinquency-q3"
-  },
-  {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "nh-bank",
-   "date": "2026-10-27",
-   "important": false,
-   "segment": "가계·리테일",
-   "source": "스마트투데이",
-   "summary": "NH올원뱅크 10주년 기념 예금 1차 특판 한도 5000억원이 일주일 만에 소진돼 11월 30일까지 5000억원 규모 2차 판매에 나섰습니다. 12개월 만기 기본금리는 연 3.65%이며 우대 조건 충족 시 최고 연 3.9%입니다.",
-   "title": "올원뱅크 10주년 예금 2차 판매…최고 연 3.9%",
-   "type": "news",
-   "url": "https://www.smarttoday.co.kr/ko-kr/articles/113154",
-   "_id": "n-20261027-nh-allonebank-deposit"
-  },
-  {
-   "addedAt": "2026-11-16T01:11:20Z",
-   "company": "shinhan-bank",
-   "date": "2026-10-27",
-   "important": true,
-   "segment": "전사",
-   "source": "바이라인네트워크",
-   "summary": "신한금융 3분기 누적 순이익은 5조274억원으로 전년 동기 대비 12.7% 증가했다. 신한은행 3분기 순이익은 1조2252억원(전분기 대비 5.9% 감소), 누적 순이익은 3조6837억원(전년 동기 대비 9.8% 증가)이며 연체율과 고정이하여신비율은 각각 0.29%였다. 총 4500억원 규모 자사주 매입과 주당 740원 배당도 발표했다.",
-   "title": "신한금융 3분기 누적 순익 5조원 돌파…신한은행 누적 3조6837억원",
-   "type": "ir",
-   "url": "https://byline.network/2026/10/1027-6",
-   "_id": "ir-20261027-sh-q3-earnings"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -1633,6 +1750,19 @@
    "type": "news",
    "url": "https://www.dailian.co.kr/news/view/1706283/%EA%B5%AD%EA%B0%90-%EB%81%9D%EB%82%9C-%EB%B3%B4%ED%97%98%EC%97%85%EA%B3%84%EC%98%88%EB%B3%B4%EB%A3%8C-%EB%B6%80%EB%8B%B4-%EC%A1%B0%EC%A0%95G-2026",
    "_id": "n-20261027-knia-post-audit-tasks"
+  },
+  {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "nh-bank",
+   "date": "2026-10-27",
+   "important": false,
+   "segment": "가계·리테일",
+   "source": "스마트투데이",
+   "summary": "NH올원뱅크 10주년 기념 예금 1차 특판 한도 5000억원이 일주일 만에 소진돼 11월 30일까지 5000억원 규모 2차 판매에 나섰습니다. 12개월 만기 기본금리는 연 3.65%이며 우대 조건 충족 시 최고 연 3.9%입니다.",
+   "title": "올원뱅크 10주년 예금 2차 판매…최고 연 3.9%",
+   "type": "news",
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/113154",
+   "_id": "n-20261027-nh-allonebank-deposit"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -1817,6 +1947,19 @@
    "_id": "n-20261022-ibk-smallbiz-support"
   },
   {
+   "addedAt": "2026-11-16T01:11:20Z",
+   "company": "knia",
+   "date": "2026-10-21",
+   "important": true,
+   "segment": "제도·감독",
+   "source": "비즈니스워치",
+   "summary": "2013년 3월 이전 가입한 재가입 조건 없는 1·2세대 실손 가입자 약 1700만명을 대상으로 11월부터 선택형 할인특약과 계약전환 할인(5세대 보험료 3년간 50% 할인)이 시행된다. 계약전환 할인은 6개월간 시행 후 연장 여부를 검토하며, 1세대가 모든 선택 항목을 적용하면 30~40%대 할인이 가능하다고 당국은 추산했다.",
+   "title": "1·2세대 실손 1700만명, 11월부터 선택형 할인·5세대 전환 할인",
+   "type": "news",
+   "url": "https://news.bizwatch.co.kr/article/finance/2026/10/20/0029",
+   "_id": "n-20261021-knia-silson-discount-nov"
+  },
+  {
    "addedAt": "2026-11-16T10:29:35Z",
    "company": "nh-bank",
    "date": "2026-10-21",
@@ -1841,19 +1984,6 @@
    "type": "news",
    "url": "https://kbmaeil.com/article/20261021500431",
    "_id": "n-20261021-woori-future-growth-project"
-  },
-  {
-   "addedAt": "2026-11-16T01:11:20Z",
-   "company": "knia",
-   "date": "2026-10-21",
-   "important": true,
-   "segment": "제도·감독",
-   "source": "비즈니스워치",
-   "summary": "2013년 3월 이전 가입한 재가입 조건 없는 1·2세대 실손 가입자 약 1700만명을 대상으로 11월부터 선택형 할인특약과 계약전환 할인(5세대 보험료 3년간 50% 할인)이 시행된다. 계약전환 할인은 6개월간 시행 후 연장 여부를 검토하며, 1세대가 모든 선택 항목을 적용하면 30~40%대 할인이 가능하다고 당국은 추산했다.",
-   "title": "1·2세대 실손 1700만명, 11월부터 선택형 할인·5세대 전환 할인",
-   "type": "news",
-   "url": "https://news.bizwatch.co.kr/article/finance/2026/10/20/0029",
-   "_id": "n-20261021-knia-silson-discount-nov"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -2142,19 +2272,6 @@
    "_id": "n-20261007-sh-vietnam-vnba"
   },
   {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "woori-bank",
-   "date": "2026-10-06",
-   "important": true,
-   "segment": "글로벌",
-   "source": "더구루",
-   "summary": "정진완 행장은 10월 2일 프놈펜에서 캄보디아 중앙은행 총재를 만나 우리은행 디지털 금융 시스템과 국가 결제 플랫폼 '박콩(Bakong)' 연계 방안을 검토했습니다. 우리은행은 2022년 캄보디아 종합상업은행 전환 이후 140개 영업망을 구축했습니다.",
-   "title": "정진완 행장, 캄보디아 중앙은행 총재와 디지털 송금 협력 논의",
-   "type": "news",
-   "url": "https://www.theguru.co.kr/news/article.html?no=107884",
-   "_id": "n-20261006-woori-cambodia-bakong"
-  },
-  {
    "addedAt": "2026-11-16T01:11:20Z",
    "company": "kb-bank",
    "date": "2026-10-06",
@@ -2179,6 +2296,19 @@
    "type": "news",
    "url": "https://biz.heraldcorp.com/article/10894082",
    "_id": "n-20261006-knia-chairman-schedule"
+  },
+  {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "woori-bank",
+   "date": "2026-10-06",
+   "important": true,
+   "segment": "글로벌",
+   "source": "더구루",
+   "summary": "정진완 행장은 10월 2일 프놈펜에서 캄보디아 중앙은행 총재를 만나 우리은행 디지털 금융 시스템과 국가 결제 플랫폼 '박콩(Bakong)' 연계 방안을 검토했습니다. 우리은행은 2022년 캄보디아 종합상업은행 전환 이후 140개 영업망을 구축했습니다.",
+   "title": "정진완 행장, 캄보디아 중앙은행 총재와 디지털 송금 협력 논의",
+   "type": "news",
+   "url": "https://www.theguru.co.kr/news/article.html?no=107884",
+   "_id": "n-20261006-woori-cambodia-bakong"
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
@@ -2220,32 +2350,6 @@
    "_id": "n-20261002-nh-recruit-6th-grade"
   },
   {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "nh-bank",
-   "date": "2026-10-01",
-   "important": false,
-   "segment": "기업금융",
-   "source": "머니투데이",
-   "summary": "농협은행을 포함한 5대 은행의 9월 말 기업대출 잔액은 886조4813억원으로 한 달 새 8조951억원 늘어 2024년 4월 이후 최대 증가폭을 기록했습니다. 같은 기간 가계대출은 1조2852억원 줄었습니다(은행별 수치는 기사에 없음).",
-   "title": "5대 은행 9월 기업대출 8조원 증가…가계대출은 1.3조원 감소",
-   "type": "news",
-   "url": "https://www.mt.co.kr/article/2026100116060399119",
-   "_id": "n-20261001-nh-big5-corp-loans"
-  },
-  {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "woori-bank",
-   "date": "2026-10-01",
-   "important": true,
-   "segment": "글로벌",
-   "source": "이코노미스트",
-   "summary": "우리은행은 9월 30일 다카지점 개점 30주년 행사를 열었으며, 현지 영업망은 9개 지점·출장소, 직원 147명입니다. 최근 3년 영업수익이 연평균 24% 성장했고 현지 고객 비중은 약 73%이며, 싱가포르 지역본부에 이어 유럽·중동, 미주 지역본부 신설도 검토 중입니다.",
-   "title": "우리은행 방글라데시 진출 30년…현지화·디지털로 새 도약",
-   "type": "news",
-   "url": "https://economist.co.kr/article/view/ecn202610010027",
-   "_id": "n-20261001-woori-bangladesh-30th"
-  },
-  {
    "addedAt": "2026-11-16T01:11:20Z",
    "company": "kb-bank",
    "date": "2026-10-01",
@@ -2257,6 +2361,19 @@
    "type": "news",
    "url": "https://byline.network/2026/10/1-1496/",
    "_id": "n-20261001-kb-ai-agent-platform"
+  },
+  {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "nh-bank",
+   "date": "2026-10-01",
+   "important": false,
+   "segment": "기업금융",
+   "source": "머니투데이",
+   "summary": "농협은행을 포함한 5대 은행의 9월 말 기업대출 잔액은 886조4813억원으로 한 달 새 8조951억원 늘어 2024년 4월 이후 최대 증가폭을 기록했습니다. 같은 기간 가계대출은 1조2852억원 줄었습니다(은행별 수치는 기사에 없음).",
+   "title": "5대 은행 9월 기업대출 8조원 증가…가계대출은 1.3조원 감소",
+   "type": "news",
+   "url": "https://www.mt.co.kr/article/2026100116060399119",
+   "_id": "n-20261001-nh-big5-corp-loans"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -2299,6 +2416,19 @@
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
+   "company": "woori-bank",
+   "date": "2026-10-01",
+   "important": true,
+   "segment": "글로벌",
+   "source": "이코노미스트",
+   "summary": "우리은행은 9월 30일 다카지점 개점 30주년 행사를 열었으며, 현지 영업망은 9개 지점·출장소, 직원 147명입니다. 최근 3년 영업수익이 연평균 24% 성장했고 현지 고객 비중은 약 73%이며, 싱가포르 지역본부에 이어 유럽·중동, 미주 지역본부 신설도 검토 중입니다.",
+   "title": "우리은행 방글라데시 진출 30년…현지화·디지털로 새 도약",
+   "type": "news",
+   "url": "https://economist.co.kr/article/view/ecn202610010027",
+   "_id": "n-20261001-woori-bangladesh-30th"
+  },
+  {
+   "addedAt": "2026-11-16T10:29:35Z",
    "company": "ibk",
    "date": "2026-09-30",
    "important": false,
@@ -2309,19 +2439,6 @@
    "type": "news",
    "url": "https://www.ddaily.co.kr/page/view/2026093016260200581",
    "_id": "n-20260930-ibk-ib-system"
-  },
-  {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "woori-bank",
-   "date": "2026-09-30",
-   "important": false,
-   "segment": "전사",
-   "source": "MTN",
-   "summary": "우리금융은 9월 30일 자추위를 열어 차기 우리은행장 경영승계 절차를 공식화했습니다. 이번부터 은행 임추위의 경영성과 점검 절차가 신설되고 외부 전문기관이 성과 검증에 참여합니다.",
-   "title": "우리금융, 은행장 승계절차 개시…임추위 역할 확대",
-   "type": "news",
-   "url": "https://news.mtn.co.kr/news-detail/2026093017305139122",
-   "_id": "n-20260930-woori-ceo-succession-start"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -2338,16 +2455,16 @@
   },
   {
    "addedAt": "2026-11-16T10:29:35Z",
-   "company": "nh-bank",
-   "date": "2026-09-29",
-   "important": true,
-   "segment": "기업금융",
-   "source": "마이데일리",
-   "summary": "농협은행의 2026년 상반기 말 기업여신은 183조8112억원으로 1년 새 11조6052억원 늘어 전체 여신 증가분의 80% 이상을 차지했습니다. 같은 기간 고정이하여신은 1조7890억원으로 16.8% 늘고 비율은 0.47%에서 0.52%로 올라, 자산 질 관리가 중요해졌다는 분석입니다.",
-   "title": "농협은행 기업여신 1년새 11조6000억원 증가…건전성 관리 과제",
+   "company": "woori-bank",
+   "date": "2026-09-30",
+   "important": false,
+   "segment": "전사",
+   "source": "MTN",
+   "summary": "우리금융은 9월 30일 자추위를 열어 차기 우리은행장 경영승계 절차를 공식화했습니다. 이번부터 은행 임추위의 경영성과 점검 절차가 신설되고 외부 전문기관이 성과 검증에 참여합니다.",
+   "title": "우리금융, 은행장 승계절차 개시…임추위 역할 확대",
    "type": "news",
-   "url": "https://www.mydaily.co.kr/page/view/2026092915561837712",
-   "_id": "n-20260929-nh-corp-loan-growth"
+   "url": "https://news.mtn.co.kr/news-detail/2026093017305139122",
+   "_id": "n-20260930-woori-ceo-succession-start"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -2361,6 +2478,19 @@
    "type": "news",
    "url": "https://www.wikitree.co.kr/articles/1162704",
    "_id": "n-20260929-kb-digital-asset-stablecoin"
+  },
+  {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "nh-bank",
+   "date": "2026-09-29",
+   "important": true,
+   "segment": "기업금융",
+   "source": "마이데일리",
+   "summary": "농협은행의 2026년 상반기 말 기업여신은 183조8112억원으로 1년 새 11조6052억원 늘어 전체 여신 증가분의 80% 이상을 차지했습니다. 같은 기간 고정이하여신은 1조7890억원으로 16.8% 늘고 비율은 0.47%에서 0.52%로 올라, 자산 질 관리가 중요해졌다는 분석입니다.",
+   "title": "농협은행 기업여신 1년새 11조6000억원 증가…건전성 관리 과제",
+   "type": "news",
+   "url": "https://www.mydaily.co.kr/page/view/2026092915561837712",
+   "_id": "n-20260929-nh-corp-loan-growth"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -2415,19 +2545,6 @@
    "_id": "n-20260922-ibk-kdb-ibks-fund"
   },
   {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "nh-bank",
-   "date": "2026-09-22",
-   "important": false,
-   "segment": "기업금융",
-   "source": "토요경제",
-   "summary": "농협은행은 전남광주 반도체 클러스터 입주기업을 생산적금융 대상으로 삼아 심사요건 완화와 담보인정비율 상향을 검토하고 있으며, 한도·담보비율 등은 입주기업 확정 이후 정해질 예정입니다. 기존 첨단산업 전용대출로는 174건, 374억원을 지원했습니다.",
-   "title": "농협은행, 전남광주 반도체 클러스터 입주기업 금융지원 추진",
-   "type": "news",
-   "url": "https://sateconomy.co.kr/news/view/1065599959505096",
-   "_id": "n-20260922-nh-semiconductor-finance"
-  },
-  {
    "addedAt": "2026-11-16T01:11:20Z",
    "company": "kb-bank",
    "date": "2026-09-22",
@@ -2439,6 +2556,19 @@
    "type": "news",
    "url": "https://dealsite.co.kr/articles/169328",
    "_id": "n-20260922-kb-kbi-indonesia-strategy"
+  },
+  {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "nh-bank",
+   "date": "2026-09-22",
+   "important": false,
+   "segment": "기업금융",
+   "source": "토요경제",
+   "summary": "농협은행은 전남광주 반도체 클러스터 입주기업을 생산적금융 대상으로 삼아 심사요건 완화와 담보인정비율 상향을 검토하고 있으며, 한도·담보비율 등은 입주기업 확정 이후 정해질 예정입니다. 기존 첨단산업 전용대출로는 174건, 374억원을 지원했습니다.",
+   "title": "농협은행, 전남광주 반도체 클러스터 입주기업 금융지원 추진",
+   "type": "news",
+   "url": "https://sateconomy.co.kr/news/view/1065599959505096",
+   "_id": "n-20260922-nh-semiconductor-finance"
   },
   {
    "addedAt": "2026-11-16T01:11:20Z",
@@ -2519,19 +2649,6 @@
    "_id": "n-20260918-sh-ai-agentic-finance"
   },
   {
-   "addedAt": "2026-11-16T10:29:35Z",
-   "company": "woori-bank",
-   "date": "2026-09-17",
-   "important": false,
-   "segment": "기업금융",
-   "source": "더팩트",
-   "summary": "8월까지 우리금융의 생산적금융 실적은 투자 1조5000억원, 융자 23조8000억원 등 25조3000억원입니다. 이는 올해 연간 목표의 116.3%, 5개년 목표의 35.7%에 해당합니다.",
-   "title": "우리금융, 생산적금융 연간 목표 116% 조기 달성",
-   "type": "news",
-   "url": "https://news.tf.co.kr/read/economy/2367180.htm",
-   "_id": "n-20260917-woori-productive-finance-target"
-  },
-  {
    "addedAt": "2026-11-16T01:11:20Z",
    "company": "kb-bank",
    "date": "2026-09-17",
@@ -2543,6 +2660,19 @@
    "type": "news",
    "url": "https://www.smarttoday.co.kr/ko-kr/articles/111716",
    "_id": "n-20260917-kb-kb-ai-starbanking"
+  },
+  {
+   "addedAt": "2026-11-16T10:29:35Z",
+   "company": "woori-bank",
+   "date": "2026-09-17",
+   "important": false,
+   "segment": "기업금융",
+   "source": "더팩트",
+   "summary": "8월까지 우리금융의 생산적금융 실적은 투자 1조5000억원, 융자 23조8000억원 등 25조3000억원입니다. 이는 올해 연간 목표의 116.3%, 5개년 목표의 35.7%에 해당합니다.",
+   "title": "우리금융, 생산적금융 연간 목표 116% 조기 달성",
+   "type": "news",
+   "url": "https://news.tf.co.kr/read/economy/2367180.htm",
+   "_id": "n-20260917-woori-productive-finance-target"
   },
   {
    "addedAt": "2026-09-15T07:00:00Z",
@@ -2822,7 +2952,7 @@
   {
    "angle": "정책금융 공급 확대와 건전성 관리를 함께 이루는 방법(조기 경보, 맞춤형 채무조정 등)을 제시하는 답변이 좋습니다.",
    "company": "ibk",
-   "detail": "3분기 말 총 연체율은 1.04%로 2분기 말 0.94%에서 올라 2011년 IR 자료 공개 이후 처음 1%를 넘었습니다. 기업대출 연체율은 1.10%, 부동산업·임대업은 1.99%였습니다. 연결 충당금 전입액은 6734억원으로 전 분기 대비 50.5% 늘었고, NPL커버리지비율은 100.0%로 낮아졌습니다. 은행은 연체율이 당분간 현 수준을 유지할 것으로 전망했습니다.",
+   "detail": "3분기 말 총 연체율은 1.04%로 2분기 말 0.94%에서 올라 2011년 IR 자료 공개 이후 처음 1%를 넘었습니다. 기업대출 연체율은 1.10%, 부동산업·임대업은 1.99%였습니다. 연결 충당금 전입액은 6734억원으로 전 분기 대비 50.5% 늘었고, NPL커버리지비율은 100.0%로 낮아졌습니다. 은행은 연체율이 당분간 현 수준을 유지할 것으로 전망했습니다. 은행권 전체로는 9월 말 연체율 0.59%(중소기업 0.85%)로 분기말 정리로 전월보다 낮아졌지만 전년보다 높으며, 금감원은 재상승 가능성을 경고했습니다.",
    "impact": "고금리 부담이 이어지는 동안 대손비용이 이익 증가 폭을 제약할 수 있습니다.",
    "order": 1,
    "segment": "정책금융·건전성",
@@ -2841,11 +2971,16 @@
      "date": "2026-11-11",
      "name": "녹색경제신문",
      "url": "https://www.greened.kr/news/articleView.html?idxno=354376"
+    },
+    {
+     "date": "2026-11-18",
+     "name": "더파워",
+     "url": "https://www.thepowernews.co.kr/view.php?ud=202611181417132202de3f0aa1be_7"
     }
    ],
    "status": "관리 강화",
    "title": "중소기업 연체율 1%대 진입과 건전성 관리",
-   "updated": "2026-11-11",
+   "updated": "2026-11-18",
    "_id": "ibk-asset-quality"
   },
   {
@@ -3160,8 +3295,8 @@
   {
    "angle": "기업고객금융(UB) 지원자는 중소기업 여신심사·사후관리 역량과 산업 이해를 강조하는 소재로 활용.",
    "company": "kb-bank",
-   "detail": "9월 말 원화대출 391조원, 기업대출 전분기 대비 2.0% 증가. 중소기업 원화대출 153조7,900억원(전년 대비 +3.1%), 비소호 중기대출 +8.6%. 중기 연체율 0.41%로 전년 대비 0.13%p 개선, 전분기 대비 0.04%p 상승. 소상공인 디지털 전환 위해 네이버페이 등과 협약(10월 2일).",
-   "impact": "가계대출 규제 속에 기업대출이 성장 축이 되고 있으며, 성장과 건전성 관리의 균형이 중요.",
+   "detail": "9월 말 원화대출 391조원, 기업대출 전분기 대비 2.0% 증가. 중소기업 원화대출 153조7,900억원(전년 대비 +3.1%), 비소호 중기대출 +8.6%. 중기 연체율 0.41%로 전년 대비 0.13%p 개선, 전분기 대비 0.04%p 상승. 소상공인 디지털 전환 위해 네이버페이 등과 협약(10월 2일). 9월 말 기업대출 잔액 204조8,320억원(연초 대비 10조원 이상 증가)이지만 3분기 누적 기업금융 순익은 1조2,053억원으로 전년 대비 2.0% 줄었습니다. 기업예금 금리 상승으로 이자비용이 늘었고, CFO는 4분기 대출 금리 재산정 효과를 전망했습니다.",
+   "impact": "기업대출이 성장 축이지만 조달비용 상승으로 기업금융 수익성이 조정되고 있어, 성장·건전성·수익성의 균형(가격 정책, 저원가 예금 확보)이 과제입니다.",
    "order": 4,
    "segment": "기업금융",
    "sources": [
@@ -3179,11 +3314,16 @@
      "date": "2026-10-06",
      "name": "스마트투데이",
      "url": "https://www.smarttoday.co.kr/ko-kr/articles/112286"
+    },
+    {
+     "date": "2026-11-16",
+     "name": "아시아투데이",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006200"
     }
    ],
    "status": "기업대출 확대",
    "title": "생산적 금융: 기업대출 중심 성장과 중기 건전성",
-   "updated": "2026-11-03",
+   "updated": "2026-11-18",
    "_id": "kb-productive-finance-sme"
   },
   {
@@ -3344,7 +3484,7 @@
   {
    "angle": "보험사기 적발자의 일반인화(회사원 27.2%, 60대 24.6%)를 근거로 예방 교육·홍보와 데이터 기반 탐지의 필요성을 제안하는 답변을 준비할 수 있다.",
    "company": "knia",
-   "detail": "2026년 상반기 보험사기 적발액은 6200억원(9.1%↑), 적발인원 5만3865명(5.6%↑)이며 자동차보험이 46.5%를 차지했다. 8월 20일 국회를 통과한 보험업법 개정안으로 보험사기 전력자의 모집시장 진입 제한, 판결로 입증 시 청문 없는 설계사 등록 취소(현행 평균 331일 소요), GA 임원 결격기간 3년→5년 등이 도입되며 공포 6개월 후(내년 3월) 시행된다.",
+   "detail": "2026년 상반기 보험사기 적발액은 6200억원(9.1%↑), 적발인원 5만3865명(5.6%↑)이며 자동차보험이 46.5%를 차지했다. 8월 20일 국회를 통과한 보험업법 개정안으로 보험사기 전력자의 모집시장 진입 제한, 판결로 입증 시 청문 없는 설계사 등록 취소(현행 평균 331일 소요), GA 임원 결격기간 3년→5년 등이 도입되며 공포 6개월 후(내년 3월) 시행된다. 11월 18일 금감원은 자동차 보험사기 기획조사 결과(전동킥보드 고의충돌 80여 건, 입원 중 영업, 음주 의심 차량 표적 사고 등)를 공개하고 상시 모니터링 강화를 밝혔습니다.",
    "impact": "보험사기는 선량한 가입자의 보험료 인상 요인이므로, 협회의 신고포상·수사기관 협력·데이터 분석 기능 강화가 중요해진다.",
    "order": 4,
    "segment": "보험사기·안전",
@@ -3363,17 +3503,22 @@
      "date": "2026-08-20",
      "name": "아시아투데이",
      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260820010006926"
+    },
+    {
+     "date": "2026-11-18",
+     "name": "한국보험신문",
+     "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93904"
     }
    ],
    "status": "적발 증가·법 정비",
    "title": "보험사기 적발 증가와 제도 정비",
-   "updated": "2026-09-28",
+   "updated": "2026-11-18",
    "_id": "knia-insurance-fraud"
   },
   {
    "angle": "'보장 축소 우려 vs 보험료 절감'이라는 소비자 딜레마를 짚고, 협회 소비자포털 공시·비교 정보를 활용한 알기 쉬운 안내 방안을 면접 아이디어로 제시할 수 있다.",
    "company": "knia",
-   "detail": "5세대 실손은 5월 6일 출시됐고, 11월부터 1·2세대 가입자 약 1700만명 대상 계약전환 할인(3년간 50%)과 선택형 할인특약(1세대 최대 30~40%대 추산)이 시행된다. 9월 말 기준 5세대 유입 36만7071건 중 1·2세대 자발 전환은 3만3577건(약 9.1%)이며, 실손 보험손익은 지난해 1조8700억원 적자였다.",
+   "detail": "5세대 실손은 5월 6일 출시됐고, 11월부터 1·2세대 가입자 약 1700만명 대상 계약전환 할인(3년간 50%)과 선택형 할인특약(1세대 최대 30~40%대 추산)이 시행된다. 9월 말 기준 5세대 유입 36만7071건 중 1·2세대 자발 전환은 3만3577건(약 9.1%)이며, 실손 보험손익은 지난해 1조8700억원 적자였다. 협회 집계 10월 5세대 가입 9만4,237건 중 기존 가입자 자발 전환은 1만2,542건(13.3%)이며, 1·2세대 전환은 7월 7,667건→10월 6,746건으로 3개월 연속 감소했습니다.",
    "impact": "실손 손해율 개선과 과잉 비급여 관리의 성패가 걸린 사안으로, 소비자가 유불리를 판단할 수 있도록 하는 안내·비교공시 역할이 협회에 요구된다(추정).",
    "order": 2,
    "segment": "제도·감독",
@@ -3392,11 +3537,16 @@
      "date": "2026-11-05",
      "name": "아시아경제",
      "url": "https://view.asiae.co.kr/article/2026110414133147851"
+    },
+    {
+     "date": "2026-11-18",
+     "name": "소비자가 만드는 신문",
+     "url": "https://consumernews.co.kr/news/articleView.html?idxno=768411"
     }
    ],
    "status": "11월 할인제 시행",
    "title": "실손보험 개편: 5세대 전환 할인·선택형 할인특약",
-   "updated": "2026-11-05",
+   "updated": "2026-11-18",
    "_id": "knia-silson-reform"
   },
   {
@@ -3435,7 +3585,7 @@
   },
   {
    "angle": "공급망 다변화·신규 공급처 검증 경험(규격 대조, 거래 구조 설계)을 연결하기.",
-   "detail": "북미·유럽 완성차와 영구자석 공급계약 1조 1,600억 원 확보. 미국 리엘리먼트와 2억 달러 정제 합작(2027년 4분기 시범생산, 2028년 양산). 말레이시아·라오스에서 연 4,500톤 확보 추진. 정부는 광해광업공단의 해외 핵심광물 직접투자(희토류 포함 7종)를 공동투자·소수지분 방식으로 제한 허용하고 자원안보기금 신설을 추진합니다(법 개정 필요).",
+   "detail": "북미·유럽 완성차와 영구자석 공급계약 1조 1,600억 원 확보. 미국 리엘리먼트와 2억 달러 정제 합작(2027년 4분기 시범생산, 2028년 양산). 말레이시아·라오스에서 연 4,500톤 확보 추진. 정부는 광해광업공단의 해외 핵심광물 직접투자(희토류 포함 7종)를 공동투자·소수지분 방식으로 제한 허용하고 자원안보기금 신설을 추진합니다(법 개정 필요). 11월 17~18일 보도에 따르면 금융당국과 말레이시아 등 2~3개 해외 희토류 사업을 묶어 국민성장펀드(핵심광물 분야 첫 투자) 약 1조 원 지원을 실무 협의 중이며, 광산 지분 확보와 사업부 M&A까지 검토됩니다(연내 승인은 불투명).",
    "impact": "증권가는 2030년 희토류·영구자석 합산 약 3조 원 규모를 전망(유안타증권). 전기강판과 모터코아에 자석까지 묶어 공급하는 구조입니다.",
    "order": 6,
    "segment": "소재·희토류",
@@ -3454,11 +3604,16 @@
      "date": "2026-11-17",
      "name": "시사저널e",
      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425101"
+    },
+    {
+     "date": "2026-11-18",
+     "name": "더퍼블릭",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=327237"
     }
    ],
-   "status": "수주 확보",
+   "status": "수주 확보·정책자금 검토",
    "title": "희토류–영구자석–모터코아 수직계열화",
-   "updated": "2026-11-17",
+   "updated": "2026-11-18",
    "_id": "mat-rare-earth",
    "company": "posco-intl"
   },
@@ -4052,7 +4207,7 @@
   {
    "angle": "국내 기업의 해외 진출·공급망 금융을 글로벌 네트워크로 지원해 생산적 금융과 연결하는 시각을 제시합니다.",
    "company": "woori-bank",
-   "detail": "우리금융은 1년간 34조7000억원(생산적금융 33조3000억원, 포용금융 1조4000억원)을 공급해 5년 목표 90조원의 38.5%를 달성했습니다. 1~9월 융자 27조2000억원 중 우리은행이 26조6000억원을 공급했습니다. 우리은행 대기업여신은 19.4% 늘어난 반면 중소기업여신은 0.6% 줄었고, 그룹은 중소기업·지방 대출 구조 전환을 강조하고 있습니다.",
+   "detail": "우리금융은 1년간 34조7000억원(생산적금융 33조3000억원, 포용금융 1조4000억원)을 공급해 5년 목표 90조원의 38.5%를 달성했습니다. 1~9월 융자 27조2000억원 중 우리은행이 26조6000억원을 공급했습니다. 우리은행 대기업여신은 19.4% 늘어난 반면 중소기업여신은 0.6% 줄었고, 그룹은 중소기업·지방 대출 구조 전환을 강조하고 있습니다. 11월 11일 발표된 첫 상생금융지수 평가(6개 은행)에서 우수은행으로 선정됐으며, 비수도권 전용 채널·지역선도기업 대출·원비즈플라자 판로 지원이 근거로 제시됐습니다.",
    "impact": "기업금융 중심 성장이 이익 체력을 키우고 있으나 중소·지방기업 대출 비중 확대가 다음 과제입니다.",
    "order": 5,
    "segment": "기업금융",
@@ -4066,11 +4221,16 @@
      "date": "2026-10-26",
      "name": "한국금융신문",
      "url": "https://www.fntimes.com/html/view.php?ud=2026102322031740271b5a221379_18"
+    },
+    {
+     "date": "2026-11-18",
+     "name": "위키트리",
+     "url": "https://www.wikitree.co.kr/articles/1175612"
     }
    ],
    "status": "목표 초과",
    "title": "미래동반성장프로젝트와 기업금융 확대",
-   "updated": "2026-10-21",
+   "updated": "2026-11-18",
    "_id": "woori-productive-finance"
   },
   {
