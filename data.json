@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T09:38:27Z",
+ "generatedAt": "2026-11-18T23:38:01Z",
  "companies": [
   {
    "id": "ibk",
@@ -183,7 +183,7 @@
      "value": "11.48%"
     }
    ],
-   "lastUpdated": "2026-11-18T08:45:59Z",
+   "lastUpdated": "2026-11-18T22:45:41Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "kb-bank": {
@@ -239,7 +239,7 @@
      "value": "0.41% (전년 0.54% 대비 -0.13%p, 6월 말 0.37% 대비 +0.04%p)"
     }
    ],
-   "lastUpdated": "2026-11-18T08:45:59Z",
+   "lastUpdated": "2026-11-18T22:45:41Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "knia": {
@@ -295,7 +295,7 @@
      "value": "5726억원 (요율 0.15%→0.5% 안, 미확정)"
     }
    ],
-   "lastUpdated": "2026-11-18T08:45:59Z",
+   "lastUpdated": "2026-11-18T22:45:41Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "nh-bank": {
@@ -345,7 +345,7 @@
      "value": "380명"
     }
    ],
-   "lastUpdated": "2026-11-18T08:45:59Z",
+   "lastUpdated": "2026-11-18T22:45:41Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "shinhan-bank": {
@@ -401,7 +401,7 @@
      "value": "0.42%"
     }
    ],
-   "lastUpdated": "2026-11-18T08:45:59Z",
+   "lastUpdated": "2026-11-18T22:45:41Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "posco-intl": {
@@ -457,7 +457,7 @@
      "value": "133만㎘"
     }
    ],
-   "lastUpdated": "2026-11-18T08:45:59Z",
+   "lastUpdated": "2026-11-18T22:45:41Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "woori-bank": {
@@ -507,7 +507,7 @@
      "value": "34조7000억원 (5년 목표 90조원의 38.5%)"
     }
    ],
-   "lastUpdated": "2026-11-18T08:45:59Z",
+   "lastUpdated": "2026-11-18T22:45:41Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   }
  },
@@ -526,6 +526,19 @@
    "_id": "n-20261118-ibk-changgong-demoday"
   },
   {
+   "addedAt": "2026-11-18T22:45:41Z",
+   "company": "ibk",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "전사",
+   "source": "웹이코노미",
+   "summary": "기업은행은 11월 18일 대표 캐릭터 '기은센'을 3D로 개편하고 '기은센과 친구들'을 공개했습니다. 11월 17~18일 IBK창공 데모데이에서는 IBK벤처투자 등 투자사 8곳과 IPO·VC 투자 상담을 진행했습니다.",
+   "title": "기업은행, 대표 캐릭터 '기은센' 3D 리뉴얼…창공 데모데이서 상장·투자 상담",
+   "type": "news",
+   "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380995",
+   "_id": "n-20261118-ibk-character-ipo-consult"
+  },
+  {
    "addedAt": "2026-11-18T08:45:59Z",
    "company": "ibk",
    "date": "2026-11-18",
@@ -537,6 +550,19 @@
    "type": "news",
    "url": "https://www.thepowernews.co.kr/view.php?ud=202611181417132202de3f0aa1be_7",
    "_id": "n-20261118-ibk-sep-bank-delinquency"
+  },
+  {
+   "addedAt": "2026-11-18T22:45:41Z",
+   "company": "kb-bank",
+   "date": "2026-11-18",
+   "important": true,
+   "segment": "전사",
+   "source": "테크M",
+   "summary": "11월 20일 임시주총에서 이재근 차기 회장 선임 안건이 의결되면 11월 21일부터 3년 임기가 시작됩니다. 김성현 CIB·마켓부문장, 이창권 미래전략부문장이 사의를 표명한 것으로 전해졌고, 이환주 국민은행장을 포함한 계열사 CEO 10명의 임기가 연말 만료됩니다.",
+   "title": "이재근 회장 체제 앞두고 KB금융 부문장 사의…계열사 CEO 인사 주목",
+   "type": "news",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=157511",
+   "_id": "n-20261118-kb-mgmt-reshuffle"
   },
   {
    "addedAt": "2026-11-18T08:45:59Z",
@@ -578,6 +604,19 @@
    "_id": "n-20261118-nh-ceo-changwon-lecture"
   },
   {
+   "addedAt": "2026-11-18T22:45:41Z",
+   "company": "nh-bank",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "기업금융",
+   "source": "Businesskorea",
+   "summary": "기업 ERP·그룹웨어 안에서 은행 업무를 처리하는 'NH임베디드플랫폼'에 기업카드 이용내역 조회·대금 결제, 실시간 환율 조회·외화예금 이체, 기업대출 상담 신청·내역 조회 기능을 더했습니다. 제휴 경영지원 플랫폼은 파로스·스텔라·얼마에요입니다.",
+   "title": "농협은행, 'NH임베디드플랫폼'에 기업카드·외환·대출상담 기능 추가",
+   "type": "news",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281611",
+   "_id": "n-20261118-nh-embedded-platform"
+  },
+  {
    "addedAt": "2026-11-18T08:45:59Z",
    "company": "nh-bank",
    "date": "2026-11-18",
@@ -604,6 +643,19 @@
    "_id": "n-20261118-pi-ngf-rare-earth"
   },
   {
+   "addedAt": "2026-11-18T22:45:41Z",
+   "company": "posco-intl",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "소재·희토류",
+   "source": "아이뉴스24",
+   "summary": "11월 18일 오전 9시 46분 기준 포스코인터내셔널 주가는 전일 대비 2,600원(5.32%) 오른 51,500원에 거래됐습니다. 금융당국이 동남아 희토류 사업 2~3건(해외 광산 투자·희토류 기업 사업부 M&A 포함)을 묶어 약 1조 원 규모 저리 대출을 검토 중이라는 보도가 배경이며, 현재 실무 협의 단계입니다.",
+   "title": "국민성장펀드 투자 검토 보도에 포스코인터 주가 5.32% 상승",
+   "type": "news",
+   "url": "http://inews24.com/view/2027499",
+   "_id": "n-20261118-pi-stock-ngf"
+  },
+  {
    "addedAt": "2026-11-18T08:45:59Z",
    "company": "shinhan-bank",
    "date": "2026-11-18",
@@ -615,6 +667,32 @@
    "type": "news",
    "url": "https://www.fnewstv.com/news/newsview.php?ncode=1065571803973611",
    "_id": "n-20261118-sh-jongno-treasury"
+  },
+  {
+   "addedAt": "2026-11-18T22:45:41Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "서울신문",
+   "summary": "신한은행이 한국능률협회컨설팅 주관 2026년 '소비자가 가장 추천하는 브랜드(KBRI)' 은행 부문 1위에 올랐습니다. 신한투자증권과 함께 만든 통합계좌 '쏠링크'는 출시 4주 만에 30만 좌, 10월 13일 기준 누적 64만 좌를 넘었습니다.",
+   "title": "신한은행, KBRI 은행 부문 1위…은행·증권 통합계좌 '쏠링크' 64만 좌",
+   "type": "news",
+   "url": "https://www.seoul.co.kr/news/economy/2026/11/18/20261118500151",
+   "_id": "n-20261118-sh-kbri-sollink"
+  },
+  {
+   "addedAt": "2026-11-18T22:45:41Z",
+   "company": "woori-bank",
+   "date": "2026-11-18",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "뉴스핌",
+   "summary": "우리금융은 11월 17일 '2026 우리금융 AI Day'를 열어 그룹 AX 성과를 공유했습니다. 우리은행은 기업금융 영업지원 AI 에이전트를 발표했고, 동양생명(AI 보험설계)·ABL생명(이상거래 탐지) 등 계열사 사례와 지주 AI전략센터의 중장기 방향이 소개됐습니다.",
+   "title": "우리금융 'AI Day' 개최…우리은행 기업금융 영업지원 AI 에이전트 발표",
+   "type": "news",
+   "url": "https://www.newspim.com/news/view/20261118001122",
+   "_id": "n-20261118-woori-ai-day"
   },
   {
    "addedAt": "2026-11-18T08:45:59Z",
@@ -3266,11 +3344,16 @@
   {
    "angle": "새 회장이 담당해 온 글로벌·WM·중소기업 금융 분야를 짚어 향후 전략 방향과 본인 역량을 연결.",
    "company": "kb-bank",
-   "detail": "회추위가 9월 11일 이재근 부문장을 차기 회장 최종 후보로 추천, 11월 20일 임시주총 거쳐 3년 임기 시작 예정. 이환주 행장 임기 12월 31일 만료, 정문철·김재관·나상록 등 후보 거론 및 연임 가능성. KB 자회사 11곳 중 10곳 CEO 임기 연말 만료.",
+   "detail": "회추위가 9월 11일 이재근 부문장을 차기 회장 최종 후보로 추천했고, 11월 20일 임시주총에서 의결되면 11월 21일부터 3년 임기가 시작된다. 김성현 CIB·마켓부문장, 이창권 미래전략부문장이 사의를 표명한 것으로 전해졌다(11/18 보도). 이환주 행장 임기 12월 31일 만료, 정문철·김재관·나상록 등 후보 거론 및 연임 가능성. KB 계열사 CEO 10명 임기가 연말 만료된다.",
    "impact": "'과감한 변화와 세대교체'를 내건 새 경영진 출범으로 조직·전략 재정비 가능성(추정).",
    "order": 3,
    "segment": "전사",
    "sources": [
+    {
+     "date": "2026-11-18",
+     "name": "테크M",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=157511"
+    },
     {
      "date": "2026-11-02",
      "name": "이코노미스트",
@@ -3289,7 +3372,7 @@
    ],
    "status": "회장 교체 임박",
    "title": "이재근 회장 선임과 국민은행장 인사",
-   "updated": "2026-11-10",
+   "updated": "2026-11-19",
    "_id": "kb-leadership-transition"
   },
   {
