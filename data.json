@@ -1,22 +1,22 @@
 {
- "generatedAt": "2026-11-20T23:37:39Z",
+ "generatedAt": "2026-11-21T09:37:39Z",
  "companies": [
   {
-   "id": "ibk",
-   "name": "IBK기업은행",
-   "group": "금융권",
-   "order": 14,
+   "id": "posco-intl",
+   "name": "포스코인터내셔널",
+   "group": "종합상사",
+   "order": 1,
    "segments": [
     "전사",
-    "중소기업금융",
-    "가계·리테일",
-    "글로벌",
-    "디지털·AI",
-    "정책금융·건전성"
+    "철강",
+    "모빌리티",
+    "에너지",
+    "소재·희토류",
+    "식량·팜"
    ],
    "theme": {
-    "ground": "#EEF3FA",
-    "hdr": "#0B5BAA"
+    "ground": "#EDF4F9",
+    "hdr": "#0A7FC2"
    }
   },
   {
@@ -38,21 +38,21 @@
    }
   },
   {
-   "id": "knia",
-   "name": "손해보험협회",
-   "group": "보험·협회",
-   "order": 21,
+   "id": "shinhan-bank",
+   "name": "신한은행",
+   "group": "금융권",
+   "order": 12,
    "segments": [
     "전사",
-    "손해보험 산업",
-    "제도·감독",
-    "소비자보호",
-    "보험사기·안전",
-    "디지털·데이터"
+    "기업금융",
+    "가계·리테일",
+    "글로벌",
+    "디지털·AI",
+    "건전성·규제"
    ],
    "theme": {
-    "ground": "#EEF1F6",
-    "hdr": "#1F3A6B"
+    "ground": "#EEF2FD",
+    "hdr": "#0046FF"
    }
   },
   {
@@ -75,39 +75,21 @@
    }
   },
   {
-   "id": "posco-intl",
-   "name": "포스코인터내셔널",
-   "group": "종합상사",
-   "order": 1,
-   "segments": [
-    "전사",
-    "철강",
-    "모빌리티",
-    "에너지",
-    "소재·희토류",
-    "식량·팜"
-   ],
-   "theme": {
-    "ground": "#EDF4F9",
-    "hdr": "#0A7FC2"
-   }
-  },
-  {
-   "id": "shinhan-bank",
-   "name": "신한은행",
+   "id": "ibk",
+   "name": "IBK기업은행",
    "group": "금융권",
-   "order": 12,
+   "order": 14,
    "segments": [
     "전사",
-    "기업금융",
+    "중소기업금융",
     "가계·리테일",
     "글로벌",
     "디지털·AI",
-    "건전성·규제"
+    "정책금융·건전성"
    ],
    "theme": {
-    "ground": "#EEF2FD",
-    "hdr": "#0046FF"
+    "ground": "#EEF3FA",
+    "hdr": "#0B5BAA"
    }
   },
   {
@@ -126,6 +108,24 @@
    "theme": {
     "ground": "#EDF5FB",
     "hdr": "#0A82C8"
+   }
+  },
+  {
+   "id": "knia",
+   "name": "손해보험협회",
+   "group": "보험·협회",
+   "order": 21,
+   "segments": [
+    "전사",
+    "손해보험 산업",
+    "제도·감독",
+    "소비자보호",
+    "보험사기·안전",
+    "디지털·데이터"
+   ],
+   "theme": {
+    "ground": "#EEF1F6",
+    "hdr": "#1F3A6B"
    }
   }
  ],
@@ -183,7 +183,7 @@
      "value": "11.48%"
     }
    ],
-   "lastUpdated": "2026-11-20T22:46:27Z",
+   "lastUpdated": "2026-11-21T08:45:32Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "kb-bank": {
@@ -239,7 +239,7 @@
      "value": "0.41% (전년 0.54% 대비 -0.13%p, 6월 말 0.37% 대비 +0.04%p)"
     }
    ],
-   "lastUpdated": "2026-11-20T22:46:27Z",
+   "lastUpdated": "2026-11-21T08:45:32Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "knia": {
@@ -295,7 +295,7 @@
      "value": "5726억원 (요율 0.15%→0.5% 안, 미확정)"
     }
    ],
-   "lastUpdated": "2026-11-20T22:46:27Z",
+   "lastUpdated": "2026-11-21T08:45:32Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "nh-bank": {
@@ -345,7 +345,7 @@
      "value": "380명"
     }
    ],
-   "lastUpdated": "2026-11-20T22:46:27Z",
+   "lastUpdated": "2026-11-21T08:45:32Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "shinhan-bank": {
@@ -401,7 +401,7 @@
      "value": "0.42%"
     }
    ],
-   "lastUpdated": "2026-11-20T22:46:27Z",
+   "lastUpdated": "2026-11-21T08:45:32Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "posco-intl": {
@@ -457,7 +457,7 @@
      "value": "133만㎘"
     }
    ],
-   "lastUpdated": "2026-11-20T22:46:27Z",
+   "lastUpdated": "2026-11-21T08:45:32Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "woori-bank": {
@@ -507,7 +507,7 @@
      "value": "34조7000억원 (5년 목표 90조원의 38.5%)"
     }
    ],
-   "lastUpdated": "2026-11-20T22:46:27Z",
+   "lastUpdated": "2026-11-21T08:45:32Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   }
  },
@@ -539,6 +539,19 @@
    "_id": "n-20261120-kb-chairman-agm"
   },
   {
+   "addedAt": "2026-11-21T08:45:32Z",
+   "company": "kb-bank",
+   "date": "2026-11-20",
+   "important": false,
+   "segment": "전사",
+   "source": "신아일보",
+   "summary": "임시주총에서 선임안이 출석 주식 기준 찬성률 97.69%(전체 발행주식 대비 76.14%)로 가결됐습니다. 이재근 회장은 11월 21일부터 2029년 11월 20일까지 3년간 재임하며, 공식 취임식은 23일 오전 열립니다.",
+   "title": "이재근 KB금융 회장 임기 21일 시작…공식 취임식은 23일",
+   "type": "news",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085856",
+   "_id": "n-20261120-kb-chairman-term-ceremony"
+  },
+  {
    "addedAt": "2026-11-20T08:46:11Z",
    "company": "knia",
    "date": "2026-11-20",
@@ -550,6 +563,19 @@
    "type": "news",
    "url": "http://www.the-news.co.kr/news/articleView.html?idxno=32329",
    "_id": "n-20261120-knia-unclaimed-silson"
+  },
+  {
+   "addedAt": "2026-11-21T08:45:32Z",
+   "company": "knia",
+   "date": "2026-11-20",
+   "important": false,
+   "segment": "소비자보호",
+   "source": "메가경제",
+   "summary": "국무총리비서실이 19일 국회에서 상법 제732조로 15세 미만이 시민안전보험 사망보험금을 받지 못하는 문제를 논의하는 간담회를 열었고, 손해보험협회 일반·장기보험본부장이 참석했습니다. 채이배 국무총리비서실장은 이번 정기국회 상법 개정안 통과를 챙기겠다고 밝혔습니다.",
+   "title": "15세 미만 재난보험 사각지대 해소 국회 간담회…손보협회 본부장 참석",
+   "type": "news",
+   "url": "https://megaeconomy.co.kr/news/newsview.php?ncode=1065571312037869",
+   "_id": "n-20261120-knia-under15-disaster-insurance"
   },
   {
    "addedAt": "2026-11-20T22:46:27Z",
@@ -576,6 +602,19 @@
    "type": "news",
    "url": "https://news.bizwatch.co.kr/article/finance/2026/11/19/0034",
    "_id": "n-20261120-sh-ceo-candidates"
+  },
+  {
+   "addedAt": "2026-11-21T08:45:32Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-20",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "한국빅데이터저널",
+   "summary": "12월 20일까지 슈퍼SOL에서 모바일신분증을 발급하면 선착순 1만 명에게 마이신한포인트 3,000포인트를 줍니다. 데이터앤리서치 분석에서 10월 관련 온라인 포스팅은 1,105건으로 전년 동기 41건 대비 2595.1% 늘었습니다.",
+   "title": "신한은행, 수능 시즌 슈퍼SOL 모바일신분증 발급 이벤트",
+   "type": "news",
+   "url": "https://www.thebigdata.co.kr/view.php?ud=202611201144447040df3c2a17b7_23",
+   "_id": "n-20261120-sh-mobile-id-event"
   },
   {
    "addedAt": "2026-11-20T22:46:27Z",
@@ -615,6 +654,19 @@
    "type": "news",
    "url": "https://www.newspim.com/news/view/20261120000337",
    "_id": "n-20261120-woori-ssafy-contest"
+  },
+  {
+   "addedAt": "2026-11-21T08:45:32Z",
+   "company": "woori-bank",
+   "date": "2026-11-20",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "이뉴스투데이",
+   "summary": "우리은행이 19일부터 우리WON뱅킹에서 'WON 아르떼 갤러리' 네 번째 전시를 열고 작품 16점을 오디오·텍스트 해설과 함께 공개했습니다. 밀알문화예술센터와 협력하며 작가 후원과 작품 구매도 가능합니다.",
+   "title": "우리은행, WON뱅킹서 발달장애 작가 작품 16점 온라인 전시",
+   "type": "news",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495217",
+   "_id": "n-20261120-woori-won-arte-gallery"
   },
   {
    "addedAt": "2026-11-19T22:46:12Z",
