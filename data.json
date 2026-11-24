@@ -1,22 +1,22 @@
 {
- "generatedAt": "2026-11-24T09:37:54Z",
+ "generatedAt": "2026-11-24T23:37:53Z",
  "companies": [
   {
-   "id": "ibk",
-   "name": "IBK기업은행",
-   "group": "금융권",
-   "order": 14,
+   "id": "posco-intl",
+   "name": "포스코인터내셔널",
+   "group": "종합상사",
+   "order": 1,
    "segments": [
     "전사",
-    "중소기업금융",
-    "가계·리테일",
-    "글로벌",
-    "디지털·AI",
-    "정책금융·건전성"
+    "철강",
+    "모빌리티",
+    "에너지",
+    "소재·희토류",
+    "식량·팜"
    ],
    "theme": {
-    "ground": "#EEF3FA",
-    "hdr": "#0B5BAA"
+    "ground": "#EDF4F9",
+    "hdr": "#0A7FC2"
    }
   },
   {
@@ -38,21 +38,21 @@
    }
   },
   {
-   "id": "knia",
-   "name": "손해보험협회",
-   "group": "보험·협회",
-   "order": 21,
+   "id": "shinhan-bank",
+   "name": "신한은행",
+   "group": "금융권",
+   "order": 12,
    "segments": [
     "전사",
-    "손해보험 산업",
-    "제도·감독",
-    "소비자보호",
-    "보험사기·안전",
-    "디지털·데이터"
+    "기업금융",
+    "가계·리테일",
+    "글로벌",
+    "디지털·AI",
+    "건전성·규제"
    ],
    "theme": {
-    "ground": "#EEF1F6",
-    "hdr": "#1F3A6B"
+    "ground": "#EEF2FD",
+    "hdr": "#0046FF"
    }
   },
   {
@@ -75,39 +75,21 @@
    }
   },
   {
-   "id": "posco-intl",
-   "name": "포스코인터내셔널",
-   "group": "종합상사",
-   "order": 1,
-   "segments": [
-    "전사",
-    "철강",
-    "모빌리티",
-    "에너지",
-    "소재·희토류",
-    "식량·팜"
-   ],
-   "theme": {
-    "ground": "#EDF4F9",
-    "hdr": "#0A7FC2"
-   }
-  },
-  {
-   "id": "shinhan-bank",
-   "name": "신한은행",
+   "id": "ibk",
+   "name": "IBK기업은행",
    "group": "금융권",
-   "order": 12,
+   "order": 14,
    "segments": [
     "전사",
-    "기업금융",
+    "중소기업금융",
     "가계·리테일",
     "글로벌",
     "디지털·AI",
-    "건전성·규제"
+    "정책금융·건전성"
    ],
    "theme": {
-    "ground": "#EEF2FD",
-    "hdr": "#0046FF"
+    "ground": "#EEF3FA",
+    "hdr": "#0B5BAA"
    }
   },
   {
@@ -126,6 +108,24 @@
    "theme": {
     "ground": "#EDF5FB",
     "hdr": "#0A82C8"
+   }
+  },
+  {
+   "id": "knia",
+   "name": "손해보험협회",
+   "group": "보험·협회",
+   "order": 21,
+   "segments": [
+    "전사",
+    "손해보험 산업",
+    "제도·감독",
+    "소비자보호",
+    "보험사기·안전",
+    "디지털·데이터"
+   ],
+   "theme": {
+    "ground": "#EEF1F6",
+    "hdr": "#1F3A6B"
    }
   }
  ],
@@ -183,7 +183,7 @@
      "value": "11.48%"
     }
    ],
-   "lastUpdated": "2026-11-24T08:45:52Z",
+   "lastUpdated": "2026-11-24T22:46:07Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "kb-bank": {
@@ -239,7 +239,7 @@
      "value": "0.41% (전년 0.54% 대비 -0.13%p, 6월 말 0.37% 대비 +0.04%p)"
     }
    ],
-   "lastUpdated": "2026-11-24T08:45:52Z",
+   "lastUpdated": "2026-11-24T22:46:07Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "knia": {
@@ -295,7 +295,7 @@
      "value": "5726억원 (요율 0.15%→0.5% 안, 미확정)"
     }
    ],
-   "lastUpdated": "2026-11-24T08:45:52Z",
+   "lastUpdated": "2026-11-24T22:46:07Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "nh-bank": {
@@ -345,7 +345,7 @@
      "value": "380명"
     }
    ],
-   "lastUpdated": "2026-11-24T08:45:52Z",
+   "lastUpdated": "2026-11-24T22:46:07Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "shinhan-bank": {
@@ -401,7 +401,7 @@
      "value": "0.42%"
     }
    ],
-   "lastUpdated": "2026-11-24T08:45:52Z",
+   "lastUpdated": "2026-11-24T22:46:07Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "posco-intl": {
@@ -457,7 +457,7 @@
      "value": "133만㎘"
     }
    ],
-   "lastUpdated": "2026-11-24T08:45:52Z",
+   "lastUpdated": "2026-11-24T22:46:07Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "woori-bank": {
@@ -507,11 +507,24 @@
      "value": "34조7000억원 (5년 목표 90조원의 38.5%)"
     }
    ],
-   "lastUpdated": "2026-11-24T08:45:52Z",
+   "lastUpdated": "2026-11-24T22:46:07Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   }
  },
  "items": [
+  {
+   "addedAt": "2026-11-24T22:46:07Z",
+   "company": "ibk",
+   "date": "2026-11-24",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "이투데이",
+   "summary": "우편 내용증명을 카카오 본인인증 후 모바일로 열람하는 서비스를 시행했으며, 문서는 공인문서 중계자를 거쳐 공인전자문서센터에 보관돼 위·변조를 막습니다. 우선 기한의 이익 상실 예정 통지서에 적용하고 모바일 수신에 동의한 고객에게 제공합니다.",
+   "title": "IBK기업은행, 내용증명 우편 대신 '모바일 전자증명 서비스' 시행",
+   "type": "news",
+   "url": "https://www.etoday.co.kr/news/view/2652167",
+   "_id": "n-20261124-ibk-mobile-e-cert"
+  },
   {
    "addedAt": "2026-11-24T08:45:52Z",
    "company": "kb-bank",
@@ -524,6 +537,32 @@
    "type": "news",
    "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=370476",
    "_id": "n-20261124-kb-ceo-candidates"
+  },
+  {
+   "addedAt": "2026-11-24T22:46:07Z",
+   "company": "kb-bank",
+   "date": "2026-11-24",
+   "important": false,
+   "segment": "기업금융",
+   "source": "포인트데일리",
+   "summary": "한국무역보험공사 보증서를 담보로 한국항공우주산업(KAI) 협력사에 약 2,200억원을 대출하며, 첫 수혜 기업은 항공 부품업체 디엔엠항공입니다. 3년간 보증료는 은행이 전액 부담하고, 경상남도는 이차보전 지원을 검토하고 있습니다.",
+   "title": "KB국민은행, KAI 협력사에 2200억원 금융지원",
+   "type": "news",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327169",
+   "_id": "n-20261124-kb-kai-supplier-2200"
+  },
+  {
+   "addedAt": "2026-11-24T22:46:07Z",
+   "company": "kb-bank",
+   "date": "2026-11-24",
+   "important": false,
+   "segment": "기업금융",
+   "source": "뉴스핌",
+   "summary": "표준형 DC 적립금 50억원 미만 구간 운용관리 수수료율을 연 0.10%로 낮추고 자산관리수수료율을 최대 0.20%p 인하합니다. DB형은 500억~1,000억원 구간 운용관리수수료율을 연 0.07%로 내리고, 할인 대상에 조합법인과 돌봄·복지기관을 추가합니다.",
+   "title": "KB국민은행, 27일부터 기업형 퇴직연금 수수료 인하",
+   "type": "news",
+   "url": "https://www.newspim.com/news/view/20261124000128",
+   "_id": "n-20261124-kb-pension-fee-cut"
   },
   {
    "addedAt": "2026-11-23T22:45:46Z",
@@ -565,6 +604,32 @@
    "_id": "n-20261124-knia-db-meritz-rank"
   },
   {
+   "addedAt": "2026-11-24T22:46:07Z",
+   "company": "knia",
+   "date": "2026-11-24",
+   "important": false,
+   "segment": "보험사기·안전",
+   "source": "한국경제TV",
+   "summary": "금융위원회는 보험모집인 결격사유 판단 법률에 보험사기방지 특별법과 형법 제347조를 추가하는 개정안을 25일 입법예고합니다. GA 위반행위에 가담 설계사가 150명 이하이거나 소속 설계사의 15% 이하이면 업무정지 대신 과징금(상한 업무정지 6개월분)을 부과하며, 2027년 3월 9일 시행 예정입니다.",
+   "title": "보험사기 전력 모집인 재진입 차단…보험업법 시행령 개정안 입법예고",
+   "type": "news",
+   "url": "https://wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240140",
+   "_id": "n-20261124-knia-fraud-agent-ban"
+  },
+  {
+   "addedAt": "2026-11-24T22:46:07Z",
+   "company": "nh-bank",
+   "date": "2026-11-24",
+   "important": false,
+   "segment": "전사",
+   "source": "한국경제TV",
+   "summary": "10년 이상 근무한 만 40세 이상 직원을 대상으로 26일까지 신청받아 연말 퇴직하며, 지급액은 만 40~47세 20개월치, 만 48~53세 40개월치 등입니다. 지난해에는 443명이 퇴직했고 총 1,476억원이 지급됐습니다.",
+   "title": "NH농협은행, 만 40세 이상 명예퇴직 실시…26일까지 신청",
+   "type": "news",
+   "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240144",
+   "_id": "n-20261124-nh-honorary-retirement"
+  },
+  {
    "addedAt": "2026-11-24T08:45:52Z",
    "company": "posco-intl",
    "date": "2026-11-24",
@@ -576,6 +641,32 @@
    "type": "news",
    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261124010009096",
    "_id": "n-20261124-pi-shale-1000eok"
+  },
+  {
+   "addedAt": "2026-11-24T22:46:07Z",
+   "company": "posco-intl",
+   "date": "2026-11-24",
+   "important": false,
+   "segment": "에너지",
+   "source": "한국금융신문",
+   "summary": "코드에너지 보유 애팔래치안 셰일가스전 지분 100%를 비운영(Non-operated) 방식으로 인수해 생산·시추는 현지 운영사가 맡고, 인수자금 일부는 산업은행·수출입은행 대출로 조달했습니다. 회사 귀속 생산량은 미얀마 가스전의 절반 수준이며, EBITDA의 약 1/3은 유지 개발정, 약 2/3는 추가 확장에 투입할 계획입니다. 싱가포르 트레이딩 법인 센트럭스를 통한 LNG 판매를 추진 중입니다.",
+   "title": "美 셰일가스전 지분 100% 비운영 방식 인수…센트럭스 통한 LNG 판매 추진",
+   "type": "news",
+   "url": "https://www.fntimes.com/html/view.php?ud=202611241736093590fa6b69a559_18",
+   "_id": "n-20261124-pi-shale-nonop-centrux"
+  },
+  {
+   "addedAt": "2026-11-24T22:46:07Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-24",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "뉴스핌",
+   "summary": "11월 24일부터 12월 13일까지 신한 슈퍼SOL 이용 고객(만 14세 이상)을 대상으로 감사 선물·오늘의 선물·놀라운 선물 이벤트를 진행합니다. 노트북·스마트폰 등 경품은 총 300명에게 주며 당첨자는 12월 16일 발표합니다.",
+   "title": "신한은행, 슈퍼SOL '2026 슈퍼감사제' 진행",
+   "type": "news",
+   "url": "https://www.newspim.com/news/view/20261124001371",
+   "_id": "n-20261124-sh-super-thanks"
   },
   {
    "addedAt": "2026-11-23T08:46:19Z",
