@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T09:38:16Z",
+ "generatedAt": "2026-11-25T23:37:27Z",
  "companies": [
   {
    "id": "ibk",
@@ -183,7 +183,7 @@
      "value": "11.48%"
     }
    ],
-   "lastUpdated": "2026-11-25T08:45:52Z",
+   "lastUpdated": "2026-11-25T22:45:46Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "kb-bank": {
@@ -239,7 +239,7 @@
      "value": "0.41% (전년 0.54% 대비 -0.13%p, 6월 말 0.37% 대비 +0.04%p)"
     }
    ],
-   "lastUpdated": "2026-11-25T08:45:52Z",
+   "lastUpdated": "2026-11-25T22:45:46Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "knia": {
@@ -295,7 +295,7 @@
      "value": "47.7% (5만340곳, 연말 목표 80~90%)"
     }
    ],
-   "lastUpdated": "2026-11-25T08:45:52Z",
+   "lastUpdated": "2026-11-25T22:45:46Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "nh-bank": {
@@ -345,7 +345,7 @@
      "value": "380명"
     }
    ],
-   "lastUpdated": "2026-11-25T08:45:52Z",
+   "lastUpdated": "2026-11-25T22:45:46Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "shinhan-bank": {
@@ -401,7 +401,7 @@
      "value": "0.42%"
     }
    ],
-   "lastUpdated": "2026-11-25T08:45:52Z",
+   "lastUpdated": "2026-11-25T22:45:46Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "posco-intl": {
@@ -457,7 +457,7 @@
      "value": "133만㎘"
     }
    ],
-   "lastUpdated": "2026-11-25T08:45:52Z",
+   "lastUpdated": "2026-11-25T22:45:46Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   },
   "woori-bank": {
@@ -507,11 +507,37 @@
      "value": "34조7000억원 (5년 목표 90조원의 38.5%)"
     }
    ],
-   "lastUpdated": "2026-11-25T08:45:52Z",
+   "lastUpdated": "2026-11-25T22:45:46Z",
    "schedule": "매일 07:45·17:45 자동 수집"
   }
  },
  "items": [
+  {
+   "addedAt": "2026-11-25T22:45:46Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-26",
+   "important": true,
+   "segment": "전사",
+   "source": "한국금융신문",
+   "summary": "지주 자경위는 12월 3일 차기 신한은행장 최종 후보를 선정할 계획이며, 정상혁 행장의 두 번째 연임과 새 인물 발탁 가능성이 함께 거론됩니다. 신한은행 3분기 순이익은 1조2252억원(전 분기 대비 5.9% 감소), 슈퍼SOL MAU는 7월 말 1113만명입니다.",
+   "title": "신한은행장 인선 막바지…정상혁 행장 2연임 vs 새 얼굴, 12월 3일 최종 후보",
+   "type": "news",
+   "url": "https://www.fntimes.com/html/view.php?ud=202611260031173417b4a7c6999c_18",
+   "_id": "n-20261126-sh-ceo-selection-direction"
+  },
+  {
+   "addedAt": "2026-11-25T22:45:46Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-26",
+   "important": false,
+   "segment": "글로벌",
+   "source": "이투데이",
+   "summary": "신한은행 홍콩지점은 2024년 홍콩IB센터와 조직을 통합해 아시아 투자금융 거점이 됐고, 인도 학자금융 NBFC에 대한 1억달러 규모 ECB를 단독 주선했습니다. 기업금융 협업으로 신규 신디케이트론 5건·1억달러 승인을 확보했고 구조화대출은 1억5000만달러 이상을 취급했습니다.",
+   "title": "신한은행 홍콩지점, 아시아 IB 거점화…인도 NBFC 1억달러 ECB 단독 주선",
+   "type": "news",
+   "url": "https://www.etoday.co.kr/news/view/2652757",
+   "_id": "n-20261126-sh-hongkong-ib"
+  },
   {
    "addedAt": "2026-11-25T08:45:52Z",
    "company": "ibk",
@@ -630,6 +656,19 @@
    "_id": "n-20261125-nh-point-coupon"
   },
   {
+   "addedAt": "2026-11-25T22:45:46Z",
+   "company": "posco-intl",
+   "date": "2026-11-25",
+   "important": false,
+   "segment": "식량·팜",
+   "source": "비건뉴스",
+   "summary": "포스코인터내셔널은 26일 인도네시아 자카르타에서 증권사 애널리스트 대상 팜사업 설명회를 열고 팜농장 현장 방문, 단계별 추진 현황 설명, 질의응답을 진행합니다. IR 일정상 '2026 인니팜사업 밸류데이'는 24~26일입니다.",
+   "title": "인니팜사업 밸류데이…26일 자카르타서 애널리스트 대상 팜사업 설명회",
+   "type": "ir",
+   "url": "https://www.vegannews.co.kr/news/article.html?no=410808",
+   "_id": "n-20261125-pi-palm-valueday"
+  },
+  {
    "addedAt": "2026-11-25T08:45:52Z",
    "company": "posco-intl",
    "date": "2026-11-25",
@@ -669,6 +708,19 @@
    "_id": "n-20261125-sh-papajohns-tripshop"
   },
   {
+   "addedAt": "2026-11-25T22:45:46Z",
+   "company": "shinhan-bank",
+   "date": "2026-11-25",
+   "important": false,
+   "segment": "디지털·AI",
+   "source": "주간한국",
+   "summary": "신한은행은 영업점 직원용 '자산관리 에이전트'를 도입해 투자상품 판매 자격 직원 약 8000명 중 주 약 1500명이 이용하고 있습니다. PWM 직원 약 3000명 대상 한 장짜리 리포트 서비스도 제공하며, 법적 위험 해소 시 상용화를 기대한다고 전했습니다.",
+   "title": "신한은행 영업점 '자산관리 에이전트', 주 1500명 직원 활용",
+   "type": "news",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195690",
+   "_id": "n-20261125-sh-wm-ai-agent"
+  },
+  {
    "addedAt": "2026-11-25T08:45:52Z",
    "company": "woori-bank",
    "date": "2026-11-25",
@@ -680,6 +732,19 @@
    "type": "news",
    "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=370562",
    "_id": "n-20261125-woori-dasan-campus"
+  },
+  {
+   "addedAt": "2026-11-25T22:45:46Z",
+   "company": "woori-bank",
+   "date": "2026-11-25",
+   "important": true,
+   "segment": "기업금융",
+   "source": "서울신문",
+   "summary": "25조614억원 규모 서울 25개 자치구 금고 선정에서 KB국민은행이 11곳으로 1위에 올랐고, 기존 14곳을 운영하던 우리은행은 관악·금천·서대문·중구 4곳을 확보했습니다. 마포·용산 차기 금고는 이르면 이달 말 결정되며, 운영 기간은 2027~2030년 4년입니다.",
+   "title": "서울 구금고 재편…우리은행 14곳→4곳, 마포·용산 결과 이달 말",
+   "type": "news",
+   "url": "https://www.seoul.co.kr/news/economy/finance/2026/11/25/20261125500222",
+   "_id": "n-20261125-woori-district-treasury"
   },
   {
    "addedAt": "2026-11-24T22:46:07Z",
@@ -4055,11 +4120,16 @@
   },
   {
    "angle": "지원 직무와 직접 관련은 적지만 회사 이해도 질문에 대비해 숫자 한 줄은 기억하기.",
-   "detail": "3분기 팜 영업이익 837억 원(+454%). PT.PAR 농장 연결 편입과 생산관리 개선이 요인. 미콜라이우 곡물터미널은 부분 가동 중이며 종전 시 조기 정상화를 준비합니다.",
+   "detail": "3분기 팜 영업이익 837억 원(+454%). PT.PAR 농장 연결 편입과 생산관리 개선이 요인. 미콜라이우 곡물터미널은 부분 가동 중이며 종전 시 조기 정상화를 준비합니다. 11월 24~26일 '2026 인니팜사업 밸류데이'를 열고 26일 자카르타에서 애널리스트 대상 팜사업 설명회를 진행합니다.",
    "impact": "에너지와 함께 팜이 안정 수익원으로 자리 잡고 있습니다.",
    "order": 8,
    "segment": "식량·팜",
    "sources": [
+    {
+     "date": "2026-11-25",
+     "name": "비건뉴스",
+     "url": "https://www.vegannews.co.kr/news/article.html?no=410808"
+    },
     {
      "date": "2026-11-05",
      "name": "비즈니스워치",
@@ -4073,7 +4143,7 @@
    ],
    "status": "이익 기여 확대",
    "title": "인니 팜 편입 효과와 우크라이나 곡물",
-   "updated": "2026-11-05",
+   "updated": "2026-11-26",
    "_id": "food-palm",
    "company": "posco-intl"
   },
